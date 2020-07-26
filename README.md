@@ -3,3 +3,6 @@ Hi, I'm Lewis. I'm a variety developer that dabbles in multiple fields such as w
 - 📫 How to reach me: Twitter ([@lewistehminerz](https://twitter.com/lewistehminerz)) or Discord (LewisTehMinerz#1337, [join my server](https://discord.gg/XnUh7JB) for that though)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The Karl-Gerät (literally Karl-device in German) was a World War II self propelled siege mortar. It took 60cm (24") diameter shells weighing 2,170kg and it's lightest shell was still 1,250kg. The gun had to have a crane, a two-piece heavy transport set of railcars, and several modified tanks to carry shells.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
