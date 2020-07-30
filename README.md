@@ -29,9 +29,9 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ```text
 Monday       176 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
-Tuesday      91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
+Tuesday      90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
 Wednesday    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
-Thursday     244 commits    █████░░░░░░░░░░░░░░░░░░░░   23.48% 
+Thursday     245 commits    ██████░░░░░░░░░░░░░░░░░░░   23.58% 
 Friday       131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
 Saturday     130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.51% 
 Sunday       188 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.09%
