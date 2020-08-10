@@ -18,11 +18,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-13.7%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-15.1%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,342 Contributions in year 2020
+> 🏆 1,345 Contributions in year 2020
  > 
 > 📦 Used 268.5 kB in GitHub's Storage 
  > 
@@ -49,8 +49,8 @@ Tuesday      60 commits     █░░░░░░░░░░░░░░░░�
 Wednesday    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
 Thursday     181 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
 Friday       145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Saturday     165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-Sunday       244 commits    █████░░░░░░░░░░░░░░░░░░░░   22.89%
+Saturday     163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+Sunday       246 commits    █████░░░░░░░░░░░░░░░░░░░░   23.08%
 
 ```
 
