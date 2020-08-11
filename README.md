@@ -16,13 +16,13 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-15.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-6.4%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,345 Contributions in year 2020
+> 🏆 1,347 Contributions in year 2020
  > 
 > 📦 Used 268.5 kB in GitHub's Storage 
  > 
@@ -44,12 +44,12 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 📅 **I'm Most Productive on Sundays** 
 
 ```text
-Monday       190 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
+Monday       192 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
 Tuesday      60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
 Wednesday    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
 Thursday     181 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
 Friday       145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Saturday     163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+Saturday     161 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
 Sunday       246 commits    █████░░░░░░░░░░░░░░░░░░░░   23.08%
 
 ```
