@@ -16,9 +16,9 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-15.0%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-13.0%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
