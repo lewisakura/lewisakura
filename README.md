@@ -18,11 +18,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-13.0%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-14.1%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,353 Contributions in year 2020
+> 🏆 1,354 Contributions in year 2020
  > 
 > 📦 Used 268.5 kB in GitHub's Storage 
  > 
