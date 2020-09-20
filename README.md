@@ -16,9 +16,9 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -86,11 +86,11 @@ Windows                  2 hrs 2 mins        ███████████�
 **I Mostly Code in C#** 
 
 ```text
-C#                       18 repos            █████░░░░░░░░░░░░░░░░░░░░   21.69% 
-JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
-Lua                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.43%
+C#                       18 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Lua                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
+TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
