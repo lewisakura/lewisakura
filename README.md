@@ -15,6 +15,12 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox">
+  </a>
+</p>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
