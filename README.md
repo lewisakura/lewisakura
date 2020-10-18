@@ -27,7 +27,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -77,12 +77,10 @@ Other                    0 secs              ░░░░░░░░░░░�
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.0% 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+VS Code                  45 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-linkcms                  45 mins             █████████████████████████   100.0% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+linkcms                  45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  45 mins             █████████████████████████   100.0%
