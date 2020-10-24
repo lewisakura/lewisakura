@@ -27,7 +27,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -70,16 +70,20 @@ Sunday       269 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████████   100.0%
+TypeScript               1 hr 53 mins        ██████████████████████░░░   89.05% 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.99%
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+VS Code                  2 hrs 7 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          8 mins              █████████████████████████   100.0%
+strawberry               1 hr 54 mins        ██████████████████████░░░   89.5% 
+Unknown Project          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
+verification             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.0%
+Windows                  2 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
