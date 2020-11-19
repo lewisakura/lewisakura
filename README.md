@@ -25,15 +25,15 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 1,452 Contributions in the Year 2020
  > 
-> 📦 284.2 kB Used in Github's Storage 
+> 📦 284.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,21 +70,16 @@ Sunday       267 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-XAML                     16 mins             ███████████░░░░░░░░░░░░░░   44.6% 
-C#                       15 mins             ██████████░░░░░░░░░░░░░░░   41.78% 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
+JavaScript               1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-Visual Studio            35 mins             ████████████████████████░   96.09% 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-AmongUsMumble            35 mins             ████████████████████████░   96.09% 
-Steam                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
+Steam                    1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.0%
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
