@@ -1,6 +1,7 @@
-<h1><img align="left" src="https://cdn.discordapp.com/emojis/552927506957729802.gif" width="40">Hi, I'm Lewis.</h1>
+<h1 align="center">👋 Hi, I'm Lewis.</h1>
+<h3 align="center">The super cool developer that you haven't heard about. Probably.</h3>
 
-I'm a variety developer that dabbles in multiple fields such as web, desktop (Windows), Discord, front, and back end development. Not that I'm good at a couple of those, mind you, but I try. My main fields are Discord, back end, and Windows desktop apps. I normally use TypeScript for the first two and C# for the last one, however I'm experimenting with other languages too. I use a variety of languages (as you can see by my stats below, surprisingly I use Java the most.. huh).
+I'm a variety developer that dabbles in multiple fields such as web, desktop (Windows), Discord, front, and back end development. Not that I'm good at a couple of those, mind you, but I try. My main fields are Discord, back end, and Windows desktop apps. I normally use TypeScript for the first two and C# for the last one, however I'm experimenting with other languages too.
 
 - 📫 How to reach me: Twitter ([@lewistehminerz](https://twitter.com/lewistehminerz)) or Discord (LewisTehMinerz#1337, [join my server](https://discord.gg/XnUh7JB) for that though)
 - 😄 Pronouns: he/him
