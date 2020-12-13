@@ -28,17 +28,17 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,482 Contributions in the Year 2020
+> 🏆 1,486 Contributions in the Year 2020
  > 
 > 📦 284.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 115 Public Repositories 
+> 📜 116 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
 
