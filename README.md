@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/discord/discord-interactions-js/issues/7) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
-2. 🗣 Commented on [#6](https://github.com/discord/discord-interactions-js/issues/6) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
-3. 💪 Opened PR [#7](https://github.com/discord/discord-interactions-js/pull/7) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
-4. 🗣 Commented on [#2](https://github.com/discord/discord-interactions-js/issues/2) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
-5. 💪 Opened PR [#1](https://github.com/discord/discord-interactions-js/pull/1) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
+1. ❗️ Opened issue [#147](https://github.com/anmol098/waka-readme-stats/issues/147) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 🗣 Commented on [#19](https://github.com/shinigami-eyes/shinigami-eyes/issues/19) in [shinigami-eyes/shinigami-eyes](https://github.com/shinigami-eyes/shinigami-eyes)
+3. 🗣 Commented on [#7](https://github.com/discord/discord-interactions-js/issues/7) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
+4. 🗣 Commented on [#6](https://github.com/discord/discord-interactions-js/issues/6) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
+5. 💪 Opened PR [#7](https://github.com/discord/discord-interactions-js/pull/7) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
