@@ -25,6 +25,8 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
   </a>
 </p>
 
+<!--START_SECTION:activity-->
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
