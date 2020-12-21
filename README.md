@@ -25,6 +25,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
   </a>
 </p>
 
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/discord/discord-interactions-js/issues/7) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
 2. 🗣 Commented on [#6](https://github.com/discord/discord-interactions-js/issues/6) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
@@ -33,6 +34,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 5. 💪 Opened PR [#1](https://github.com/discord/discord-interactions-js/pull/1) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
 <!--END_SECTION:activity-->
 
+### Wakatime Stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
