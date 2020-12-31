@@ -42,9 +42,9 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 **🐱 My Github Data** 
 
-> 🏆 1,542 Contributions in the Year 2020
+> 🏆 1,543 Contributions in the Year 2020
  > 
-> 📦 284.4 kB Used in Github's Storage 
+> 📦 284.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
