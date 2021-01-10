@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2015](https://github.com/sampotts/plyr/issues/2015) in [sampotts/plyr](https://github.com/sampotts/plyr)
-2. ❗️ Opened issue [#147](https://github.com/anmol098/waka-readme-stats/issues/147) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 🗣 Commented on [#19](https://github.com/shinigami-eyes/shinigami-eyes/issues/19) in [shinigami-eyes/shinigami-eyes](https://github.com/shinigami-eyes/shinigami-eyes)
-4. 🗣 Commented on [#7](https://github.com/discord/discord-interactions-js/issues/7) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
-5. 🗣 Commented on [#6](https://github.com/discord/discord-interactions-js/issues/6) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
+1. 🗣 Commented on [#2](https://github.com/LewisTehMinerz/insomnia-plugin-discord-rich-presence/issues/2) in [LewisTehMinerz/insomnia-plugin-discord-rich-presence](https://github.com/LewisTehMinerz/insomnia-plugin-discord-rich-presence)
+2. 🗣 Commented on [#2015](https://github.com/sampotts/plyr/issues/2015) in [sampotts/plyr](https://github.com/sampotts/plyr)
+3. ❗️ Opened issue [#147](https://github.com/anmol098/waka-readme-stats/issues/147) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. 🗣 Commented on [#19](https://github.com/shinigami-eyes/shinigami-eyes/issues/19) in [shinigami-eyes/shinigami-eyes](https://github.com/shinigami-eyes/shinigami-eyes)
+5. 🗣 Commented on [#7](https://github.com/discord/discord-interactions-js/issues/7) in [discord/discord-interactions-js](https://github.com/discord/discord-interactions-js)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
