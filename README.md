@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/ry00001/lightning/pull/9) in [ry00001/lightning](https://github.com/ry00001/lightning)
-2. ❌ Closed PR [#3](https://github.com/LewisTehMinerz/DiscordDownloader/pull/3) in [LewisTehMinerz/DiscordDownloader](https://github.com/LewisTehMinerz/DiscordDownloader)
-3. 🗣 Commented on [#3](https://github.com/LewisTehMinerz/DiscordDownloader/issues/3) in [LewisTehMinerz/DiscordDownloader](https://github.com/LewisTehMinerz/DiscordDownloader)
-4. 🗣 Commented on [#2](https://github.com/LewisTehMinerz/insomnia-plugin-discord-rich-presence/issues/2) in [LewisTehMinerz/insomnia-plugin-discord-rich-presence](https://github.com/LewisTehMinerz/insomnia-plugin-discord-rich-presence)
-5. 🗣 Commented on [#2015](https://github.com/sampotts/plyr/issues/2015) in [sampotts/plyr](https://github.com/sampotts/plyr)
+1. ❗️ Opened issue [#232](https://github.com/mirego/accent/issues/232) in [mirego/accent](https://github.com/mirego/accent)
+2. 💪 Opened PR [#9](https://github.com/ry00001/lightning/pull/9) in [ry00001/lightning](https://github.com/ry00001/lightning)
+3. ❌ Closed PR [#3](https://github.com/LewisTehMinerz/DiscordDownloader/pull/3) in [LewisTehMinerz/DiscordDownloader](https://github.com/LewisTehMinerz/DiscordDownloader)
+4. 🗣 Commented on [#3](https://github.com/LewisTehMinerz/DiscordDownloader/issues/3) in [LewisTehMinerz/DiscordDownloader](https://github.com/LewisTehMinerz/DiscordDownloader)
+5. 🗣 Commented on [#2](https://github.com/LewisTehMinerz/insomnia-plugin-discord-rich-presence/issues/2) in [LewisTehMinerz/insomnia-plugin-discord-rich-presence](https://github.com/LewisTehMinerz/insomnia-plugin-discord-rich-presence)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
