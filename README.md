@@ -44,7 +44,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 > 🏆 52 Contributions in the Year 2021
  > 
-> 📦 284.4 kB Used in Github's Storage 
+> 📦 284.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
