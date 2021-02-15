@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#253](https://github.com/Immediate-Mode-UI/Nuklear/issues/253) in [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
-2. 🗣 Commented on [#1958](https://github.com/axstin/rbxfpsunlocker/issues/1958) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
-3. 🗣 Commented on [#1949](https://github.com/axstin/rbxfpsunlocker/issues/1949) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
-4. 🗣 Commented on [#1958](https://github.com/axstin/rbxfpsunlocker/issues/1958) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
-5. 🗣 Commented on [#1955](https://github.com/axstin/rbxfpsunlocker/issues/1955) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
+1. 🗣 Commented on [#77](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager/issues/77) in [CloneTrooper1019/Roblox-Studio-Mod-Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
+2. 🗣 Commented on [#253](https://github.com/Immediate-Mode-UI/Nuklear/issues/253) in [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
+3. 🗣 Commented on [#1958](https://github.com/axstin/rbxfpsunlocker/issues/1958) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
+4. 🗣 Commented on [#1949](https://github.com/axstin/rbxfpsunlocker/issues/1949) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
+5. 🗣 Commented on [#1958](https://github.com/axstin/rbxfpsunlocker/issues/1958) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
