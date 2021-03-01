@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#372](https://github.com/mafintosh/peerflix/issues/372) in [mafintosh/peerflix](https://github.com/mafintosh/peerflix)
-2. 🗣 Commented on [#77](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager/issues/77) in [CloneTrooper1019/Roblox-Studio-Mod-Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
-3. 🗣 Commented on [#253](https://github.com/Immediate-Mode-UI/Nuklear/issues/253) in [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
-4. 🗣 Commented on [#1958](https://github.com/axstin/rbxfpsunlocker/issues/1958) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
-5. 🗣 Commented on [#1949](https://github.com/axstin/rbxfpsunlocker/issues/1949) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
+1. 🗣 Commented on [#372](https://github.com/mafintosh/peerflix/issues/372) in [mafintosh/peerflix](https://github.com/mafintosh/peerflix)
+2. ❗️ Opened issue [#372](https://github.com/mafintosh/peerflix/issues/372) in [mafintosh/peerflix](https://github.com/mafintosh/peerflix)
+3. 🗣 Commented on [#77](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager/issues/77) in [CloneTrooper1019/Roblox-Studio-Mod-Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
+4. 🗣 Commented on [#253](https://github.com/Immediate-Mode-UI/Nuklear/issues/253) in [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
+5. 🗣 Commented on [#1958](https://github.com/axstin/rbxfpsunlocker/issues/1958) in [axstin/rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
