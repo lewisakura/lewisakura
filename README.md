@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/esmBot/esmBot/pull/83) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
-2. 🗣 Commented on [#4](https://github.com/LewisTehMinerz/DiscordDownloader/issues/4) in [LewisTehMinerz/DiscordDownloader](https://github.com/LewisTehMinerz/DiscordDownloader)
-3. 🗣 Commented on [#372](https://github.com/mafintosh/peerflix/issues/372) in [mafintosh/peerflix](https://github.com/mafintosh/peerflix)
-4. ❗️ Opened issue [#372](https://github.com/mafintosh/peerflix/issues/372) in [mafintosh/peerflix](https://github.com/mafintosh/peerflix)
-5. 🗣 Commented on [#77](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager/issues/77) in [CloneTrooper1019/Roblox-Studio-Mod-Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
+1. 🗣 Commented on [#82](https://github.com/esmBot/esmBot/issues/82) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
+2. 💪 Opened PR [#83](https://github.com/esmBot/esmBot/pull/83) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
+3. 🗣 Commented on [#4](https://github.com/LewisTehMinerz/DiscordDownloader/issues/4) in [LewisTehMinerz/DiscordDownloader](https://github.com/LewisTehMinerz/DiscordDownloader)
+4. 🗣 Commented on [#372](https://github.com/mafintosh/peerflix/issues/372) in [mafintosh/peerflix](https://github.com/mafintosh/peerflix)
+5. ❗️ Opened issue [#372](https://github.com/mafintosh/peerflix/issues/372) in [mafintosh/peerflix](https://github.com/mafintosh/peerflix)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
