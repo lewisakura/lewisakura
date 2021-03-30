@@ -42,7 +42,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 **🐱 My Github Data** 
 
-> 🏆 176 Contributions in the Year 2021
+> 🏆 187 Contributions in the Year 2021
  > 
 > 📦 284.6 kB Used in Github's Storage 
  > 
