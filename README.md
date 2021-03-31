@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/esmBot/esmBot/issues/82) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
-2. 💪 Opened PR [#83](https://github.com/esmBot/esmBot/pull/83) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
-3. 🗣 Commented on [#4](https://github.com/LewisTehMinerz/DiscordDownloader/issues/4) in [LewisTehMinerz/DiscordDownloader](https://github.com/LewisTehMinerz/DiscordDownloader)
-4. 🗣 Commented on [#372](https://github.com/mafintosh/peerflix/issues/372) in [mafintosh/peerflix](https://github.com/mafintosh/peerflix)
-5. ❗️ Opened issue [#372](https://github.com/mafintosh/peerflix/issues/372) in [mafintosh/peerflix](https://github.com/mafintosh/peerflix)
+1. 💪 Opened PR [#2](https://github.com/LunarDiaspora/Luminal/pull/2) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
+2. 💪 Opened PR [#1](https://github.com/LunarDiaspora/Luminal/pull/1) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
+3. 🗣 Commented on [#82](https://github.com/esmBot/esmBot/issues/82) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
+4. 💪 Opened PR [#83](https://github.com/esmBot/esmBot/pull/83) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
+5. 🗣 Commented on [#4](https://github.com/LewisTehMinerz/DiscordDownloader/issues/4) in [LewisTehMinerz/DiscordDownloader](https://github.com/LewisTehMinerz/DiscordDownloader)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
