@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/LunarDiaspora/Luminal/pull/3) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
-2. 💪 Opened PR [#2](https://github.com/LunarDiaspora/Luminal/pull/2) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
-3. 💪 Opened PR [#1](https://github.com/LunarDiaspora/Luminal/pull/1) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
-4. 🗣 Commented on [#82](https://github.com/esmBot/esmBot/issues/82) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
-5. 💪 Opened PR [#83](https://github.com/esmBot/esmBot/pull/83) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
+1. ❗️ Opened issue [#17](https://github.com/BenSegal855/In-app-notifs/issues/17) in [BenSegal855/In-app-notifs](https://github.com/BenSegal855/In-app-notifs)
+2. 💪 Opened PR [#3](https://github.com/LunarDiaspora/Luminal/pull/3) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
+3. 💪 Opened PR [#2](https://github.com/LunarDiaspora/Luminal/pull/2) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
+4. 💪 Opened PR [#1](https://github.com/LunarDiaspora/Luminal/pull/1) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
+5. 🗣 Commented on [#82](https://github.com/esmBot/esmBot/issues/82) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
