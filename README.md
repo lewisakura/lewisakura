@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
-2. ❗️ Opened issue [#17](https://github.com/BenSegal855/In-app-notifs/issues/17) in [BenSegal855/In-app-notifs](https://github.com/BenSegal855/In-app-notifs)
-3. 💪 Opened PR [#3](https://github.com/LunarDiaspora/Luminal/pull/3) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
-4. 💪 Opened PR [#2](https://github.com/LunarDiaspora/Luminal/pull/2) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
-5. 💪 Opened PR [#1](https://github.com/LunarDiaspora/Luminal/pull/1) in [LunarDiaspora/Luminal](https://github.com/LunarDiaspora/Luminal)
+1. ❗️ Closed issue [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
+2. 🗣 Commented on [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
+3. 🗣 Commented on [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
+4. ❗️ Opened issue [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
+5. ❗️ Opened issue [#17](https://github.com/BenSegal855/In-app-notifs/issues/17) in [BenSegal855/In-app-notifs](https://github.com/BenSegal855/In-app-notifs)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
