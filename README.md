@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
-2. 🗣 Commented on [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
+1. 🗣 Commented on [#93](https://github.com/esmBot/esmBot/issues/93) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
+2. ❗️ Closed issue [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
 3. 🗣 Commented on [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
-4. ❗️ Opened issue [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
-5. ❗️ Opened issue [#17](https://github.com/BenSegal855/In-app-notifs/issues/17) in [BenSegal855/In-app-notifs](https://github.com/BenSegal855/In-app-notifs)
+4. 🗣 Commented on [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
+5. ❗️ Opened issue [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
