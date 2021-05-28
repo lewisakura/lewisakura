@@ -27,9 +27,9 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/KitsuneTV/Status/issues/1) in [KitsuneTV/Status](https://github.com/KitsuneTV/Status)
-2. 🗣 Commented on [#93](https://github.com/esmBot/esmBot/issues/93) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
-3. 🗣 Commented on [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
+1. 🗣 Commented on [#2](https://github.com/KitsuneTV/Status/issues/2) in [KitsuneTV/Status](https://github.com/KitsuneTV/Status)
+2. 🗣 Commented on [#1](https://github.com/KitsuneTV/Status/issues/1) in [KitsuneTV/Status](https://github.com/KitsuneTV/Status)
+3. 🗣 Commented on [#93](https://github.com/esmBot/esmBot/issues/93) in [esmBot/esmBot](https://github.com/esmBot/esmBot)
 4. 🗣 Commented on [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
 5. ❗️ Opened issue [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
 <!--END_SECTION:activity-->
