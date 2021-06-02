@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/ipfs/public-gateway-checker/pull/146) in [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker)
-2. 🎉 Merged PR [#1](https://github.com/LewisTehMinerz/100-test/pull/1) in [LewisTehMinerz/100-test](https://github.com/LewisTehMinerz/100-test)
-3. 🗣 Commented on [#2](https://github.com/KitsuneTV/Status/issues/2) in [KitsuneTV/Status](https://github.com/KitsuneTV/Status)
-4. 🗣 Commented on [#1](https://github.com/KitsuneTV/Status/issues/1) in [KitsuneTV/Status](https://github.com/KitsuneTV/Status)
-5. ❗️ Opened issue [#25192](https://github.com/getsentry/sentry/issues/25192) in [getsentry/sentry](https://github.com/getsentry/sentry)
+1. 🗣 Commented on [#146](https://github.com/ipfs/public-gateway-checker/issues/146) in [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker)
+2. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
+3. 💪 Opened PR [#146](https://github.com/ipfs/public-gateway-checker/pull/146) in [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker)
+4. 🎉 Merged PR [#1](https://github.com/LewisTehMinerz/100-test/pull/1) in [LewisTehMinerz/100-test](https://github.com/LewisTehMinerz/100-test)
+5. 🗣 Commented on [#2](https://github.com/KitsuneTV/Status/issues/2) in [KitsuneTV/Status](https://github.com/KitsuneTV/Status)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
