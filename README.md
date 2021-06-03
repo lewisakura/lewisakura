@@ -28,10 +28,10 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
-2. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
+2. 🗣 Commented on [#4](https://github.com/KitsuneTV/Status/issues/4) in [KitsuneTV/Status](https://github.com/KitsuneTV/Status)
 3. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
 4. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
-5. 🗣 Commented on [#146](https://github.com/ipfs/public-gateway-checker/issues/146) in [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker)
+5. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
