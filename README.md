@@ -38,13 +38,13 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327795%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327830%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 814 Contributions in the Year 2021
+> 🏆 820 Contributions in the Year 2021
  > 
-> 📦 285.8 kB Used in Github's Storage 
+> 📦 285.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,17 +55,17 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
-🌆 Daytime    552 commits    ██████████░░░░░░░░░░░░░░░   42.53% 
-🌃 Evening    498 commits    █████████░░░░░░░░░░░░░░░░   38.37% 
+🌞 Morning    152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+🌆 Daytime    550 commits    ██████████░░░░░░░░░░░░░░░   42.37% 
+🌃 Evening    504 commits    █████████░░░░░░░░░░░░░░░░   38.83% 
 🌙 Night      92 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.09%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       217 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.72% 
-Tuesday      107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
+Monday       213 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
+Tuesday      111 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
 Wednesday    150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
 Thursday     194 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
 Friday       167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
@@ -118,5 +118,5 @@ Java                     9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
