@@ -28,10 +28,10 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
-2. ❗️ Closed issue [#3](https://github.com/LewisTehMinerz/discord-flags/issues/3) in [LewisTehMinerz/discord-flags](https://github.com/LewisTehMinerz/discord-flags)
-3. 🗣 Commented on [#3](https://github.com/LewisTehMinerz/discord-flags/issues/3) in [LewisTehMinerz/discord-flags](https://github.com/LewisTehMinerz/discord-flags)
-4. 🗣 Commented on [#1](https://github.com/LewisTehMinerz/blog/issues/1) in [LewisTehMinerz/blog](https://github.com/LewisTehMinerz/blog)
-5. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
+2. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
+3. ❗️ Closed issue [#3](https://github.com/LewisTehMinerz/discord-flags/issues/3) in [LewisTehMinerz/discord-flags](https://github.com/LewisTehMinerz/discord-flags)
+4. 🗣 Commented on [#3](https://github.com/LewisTehMinerz/discord-flags/issues/3) in [LewisTehMinerz/discord-flags](https://github.com/LewisTehMinerz/discord-flags)
+5. 🗣 Commented on [#1](https://github.com/LewisTehMinerz/blog/issues/1) in [LewisTehMinerz/blog](https://github.com/LewisTehMinerz/blog)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
