@@ -27,7 +27,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
+1. ❗️ Opened issue [#4](https://github.com/LewisTehMinerz/RFU/issues/4) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
 2. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
 3. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
 4. 🗣 Commented on [#191](https://github.com/KeppySoftware/OmniMIDI/issues/191) in [KeppySoftware/OmniMIDI](https://github.com/KeppySoftware/OmniMIDI)
