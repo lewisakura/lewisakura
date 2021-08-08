@@ -38,11 +38,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-328186%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-328187%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 931 Contributions in the Year 2021
+> 🏆 932 Contributions in the Year 2021
  > 
 > 📦 286.1 kB Used in Github's Storage 
  > 
@@ -119,5 +119,5 @@ Java                     9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
