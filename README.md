@@ -36,7 +36,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333425%20lines%20of%20code-blue)
 
@@ -81,18 +81,18 @@ Sunday       257 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               1 hr 52 mins        ████████████████████████░   99.36% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+TypeScript               1 hr 43 mins        ████████████████████████░   99.41% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.0%
+VS Code                  1 hr 44 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-botto                    1 hr 53 mins        █████████████████████████   100.0%
+botto                    1 hr 44 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.0%
+Windows                  1 hr 44 mins        █████████████████████████   100.0%
 
 ```
 
@@ -113,5 +113,5 @@ Java                     9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2021
+ Last Updated on 03/09/2021
 <!--END_SECTION:waka-->
