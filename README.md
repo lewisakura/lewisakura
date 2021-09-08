@@ -36,13 +36,13 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333445%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333601%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,024 Contributions in the Year 2021
+> 🏆 1,035 Contributions in the Year 2021
  > 
 > 📦 286.3 kB Used in Github's Storage 
  > 
@@ -55,9 +55,9 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-🌆 Daytime    465 commits    █████████░░░░░░░░░░░░░░░░   38.78% 
-🌃 Evening    484 commits    ██████████░░░░░░░░░░░░░░░   40.37% 
+🌞 Morning    153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+🌆 Daytime    476 commits    ██████████░░░░░░░░░░░░░░░   39.7% 
+🌃 Evening    478 commits    ██████████░░░░░░░░░░░░░░░   39.87% 
 🌙 Night      92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.67%
 
 ```
@@ -65,8 +65,8 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ```text
 Monday       176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Tuesday      109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Wednesday    168 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+Tuesday      114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
+Wednesday    163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
 Thursday     188 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
 Friday       145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
 Saturday     159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
@@ -119,5 +119,5 @@ Java                     9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2021
+ Last Updated on 08/09/2021
 <!--END_SECTION:waka-->
