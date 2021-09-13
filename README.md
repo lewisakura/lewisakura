@@ -21,7 +21,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=LewisTehMinerz&theme=gruvbox">
   </a>
 </p>
 
