@@ -36,15 +36,15 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-328561%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,102 Contributions in the Year 2021
+> 🏆 1,104 Contributions in the Year 2021
  > 
-> 📦 286.6 kB Used in Github's Storage 
+> 📦 286.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,20 +56,20 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ```text
 🌞 Morning    161 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
-🌆 Daytime    479 commits    ██████████░░░░░░░░░░░░░░░   39.88% 
+🌆 Daytime    480 commits    ██████████░░░░░░░░░░░░░░░   39.97% 
 🌃 Evening    469 commits    █████████░░░░░░░░░░░░░░░░   39.05% 
-🌙 Night      92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.66%
+🌙 Night      91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
+Monday       151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.57% 
 Tuesday      104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
 Wednesday    170 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
 Thursday     182 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
 Friday       165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Saturday     164 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Saturday     163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
 Sunday       266 commits    █████░░░░░░░░░░░░░░░░░░░░   22.15%
 
 ```
@@ -118,5 +118,5 @@ Java                     9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2021
+ Last Updated on 14/09/2021
 <!--END_SECTION:waka-->
