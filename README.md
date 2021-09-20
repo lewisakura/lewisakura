@@ -28,9 +28,9 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9184](https://github.com/prisma/prisma/issues/9184) in [prisma/prisma](https://github.com/prisma/prisma)
-2. 🗣 Commented on [#7](https://github.com/LewisTehMinerz/RFU/issues/7) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+2. 🗣 Commented on [#9184](https://github.com/prisma/prisma/issues/9184) in [prisma/prisma](https://github.com/prisma/prisma)
 3. 🗣 Commented on [#7](https://github.com/LewisTehMinerz/RFU/issues/7) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-4. 🗣 Commented on [#5](https://github.com/LewisTehMinerz/RFU/issues/5) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+4. 🗣 Commented on [#7](https://github.com/LewisTehMinerz/RFU/issues/7) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
 5. ❗️ Closed issue [#5](https://github.com/LewisTehMinerz/RFU/issues/5) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
 <!--END_SECTION:activity-->
 
