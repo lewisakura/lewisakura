@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/LewisTehMinerz/RFU/issues/9) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-2. 🗣 Commented on [#10](https://github.com/LewisTehMinerz/RFU/issues/10) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+1. ❗️ Closed issue [#9](https://github.com/LewisTehMinerz/RFU/issues/9) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+2. 🗣 Commented on [#9](https://github.com/LewisTehMinerz/RFU/issues/9) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
 3. 🗣 Commented on [#9](https://github.com/LewisTehMinerz/RFU/issues/9) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-4. 🗣 Commented on [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-5. 🗣 Commented on [#9184](https://github.com/prisma/prisma/issues/9184) in [prisma/prisma](https://github.com/prisma/prisma)
+4. 🗣 Commented on [#10](https://github.com/LewisTehMinerz/RFU/issues/10) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+5. 🗣 Commented on [#9](https://github.com/LewisTehMinerz/RFU/issues/9) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
