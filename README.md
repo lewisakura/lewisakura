@@ -28,10 +28,10 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/opxl/domains/issues/1) in [opxl/domains](https://github.com/opxl/domains)
-2. 🎉 Merged PR [#1](https://github.com/opxl/domains/pull/1) in [opxl/domains](https://github.com/opxl/domains)
-3. 🗣 Commented on [#1](https://github.com/opxl/domains/issues/1) in [opxl/domains](https://github.com/opxl/domains)
+2. 🗣 Commented on [#1](https://github.com/opxl/domains/issues/1) in [opxl/domains](https://github.com/opxl/domains)
+3. 🎉 Merged PR [#1](https://github.com/opxl/domains/pull/1) in [opxl/domains](https://github.com/opxl/domains)
 4. 🗣 Commented on [#1](https://github.com/opxl/domains/issues/1) in [opxl/domains](https://github.com/opxl/domains)
-5. 🗣 Commented on [#9184](https://github.com/prisma/prisma/issues/9184) in [prisma/prisma](https://github.com/prisma/prisma)
+5. 🗣 Commented on [#1](https://github.com/opxl/domains/issues/1) in [opxl/domains](https://github.com/opxl/domains)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
