@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/LewisTehMinerz/webhook-proxy/pull/1) in [LewisTehMinerz/webhook-proxy](https://github.com/LewisTehMinerz/webhook-proxy)
-2. 💪 Opened PR [#1](https://github.com/LewisTehMinerz/webhook-proxy/pull/1) in [LewisTehMinerz/webhook-proxy](https://github.com/LewisTehMinerz/webhook-proxy)
-3. 🗣 Commented on [#1](https://github.com/opxl/domains/issues/1) in [opxl/domains](https://github.com/opxl/domains)
+1. 🎉 Merged PR [#2](https://github.com/opxl/domains/pull/2) in [opxl/domains](https://github.com/opxl/domains)
+2. 🎉 Merged PR [#1](https://github.com/LewisTehMinerz/webhook-proxy/pull/1) in [LewisTehMinerz/webhook-proxy](https://github.com/LewisTehMinerz/webhook-proxy)
+3. 💪 Opened PR [#1](https://github.com/LewisTehMinerz/webhook-proxy/pull/1) in [LewisTehMinerz/webhook-proxy](https://github.com/LewisTehMinerz/webhook-proxy)
 4. 🗣 Commented on [#1](https://github.com/opxl/domains/issues/1) in [opxl/domains](https://github.com/opxl/domains)
-5. 🎉 Merged PR [#1](https://github.com/opxl/domains/pull/1) in [opxl/domains](https://github.com/opxl/domains)
+5. 🗣 Commented on [#1](https://github.com/opxl/domains/issues/1) in [opxl/domains](https://github.com/opxl/domains)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
