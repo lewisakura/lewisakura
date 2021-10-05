@@ -36,13 +36,13 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330945%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330869%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,219 Contributions in the Year 2021
+> 🏆 1,227 Contributions in the Year 2021
  > 
 > 📦 287.5 kB Used in GitHub's Storage 
  > 
@@ -55,22 +55,22 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
-🌆 Daytime    477 commits    █████████░░░░░░░░░░░░░░░░   38.94% 
-🌃 Evening    481 commits    █████████░░░░░░░░░░░░░░░░   39.27% 
+🌞 Morning    163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
+🌆 Daytime    478 commits    █████████░░░░░░░░░░░░░░░░   38.99% 
+🌃 Evening    484 commits    █████████░░░░░░░░░░░░░░░░   39.48% 
 🌙 Night      101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.24%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
-Tuesday      117 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Wednesday    187 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
-Thursday     185 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Friday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Saturday     172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Sunday       267 commits    █████░░░░░░░░░░░░░░░░░░░░   21.8%
+Monday       161 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Tuesday      117 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
+Wednesday    187 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
+Thursday     185 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+Friday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
+Saturday     172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
+Sunday       260 commits    █████░░░░░░░░░░░░░░░░░░░░   21.21%
 
 ```
 
@@ -120,5 +120,5 @@ Java                     9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2021
+ Last Updated on 05/10/2021
 <!--END_SECTION:waka-->
