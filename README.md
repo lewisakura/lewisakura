@@ -44,7 +44,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 > 🏆 1,290 Contributions in the Year 2021
  > 
-> 📦 289.0 kB Used in GitHub's Storage 
+> 📦 289.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,5 +115,5 @@ Python                   9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2021
+ Last Updated on 18/10/2021
 <!--END_SECTION:waka-->
