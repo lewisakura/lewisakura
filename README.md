@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-2. ❗️ Closed issue [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-3. 🎉 Merged PR [#4](https://github.com/LewisTehMinerz/discord-flags/pull/4) in [LewisTehMinerz/discord-flags](https://github.com/LewisTehMinerz/discord-flags)
-4. 🎉 Merged PR [#2](https://github.com/opxl/domains/pull/2) in [opxl/domains](https://github.com/opxl/domains)
-5. 🗣 Commented on [#1](https://github.com/opxl/domains/issues/1) in [opxl/domains](https://github.com/opxl/domains)
+1. ❗️ Opened issue [#8](https://github.com/zt64/dm-typing-indicator/issues/8) in [zt64/dm-typing-indicator](https://github.com/zt64/dm-typing-indicator)
+2. 🗣 Commented on [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+3. ❗️ Closed issue [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+4. 🎉 Merged PR [#4](https://github.com/LewisTehMinerz/discord-flags/pull/4) in [LewisTehMinerz/discord-flags](https://github.com/LewisTehMinerz/discord-flags)
+5. 🎉 Merged PR [#2](https://github.com/opxl/domains/pull/2) in [opxl/domains](https://github.com/opxl/domains)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
