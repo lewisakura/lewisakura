@@ -36,13 +36,13 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333333%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333320%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,328 Contributions in the Year 2021
+> 🏆 1,329 Contributions in the Year 2021
  > 
 > 📦 290.2 kB Used in GitHub's Storage 
  > 
@@ -65,8 +65,8 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ```text
 Monday       166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-Tuesday      132 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-Wednesday    201 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
+Tuesday      131 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
+Wednesday    202 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
 Thursday     192 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
 Friday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
 Saturday     186 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.32% 
@@ -115,5 +115,5 @@ Lua                      9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2021
+ Last Updated on 04/11/2021
 <!--END_SECTION:waka-->
