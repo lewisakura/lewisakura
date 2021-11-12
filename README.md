@@ -36,7 +36,7 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Wakatime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333473%20lines%20of%20code-blue)
 
@@ -81,20 +81,18 @@ Sunday       278 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               56 mins             █████████████░░░░░░░░░░░░   54.92% 
-Lua                      45 mins             ███████████░░░░░░░░░░░░░░   45.02% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+TypeScript               56 mins             █████████████████████████   99.89% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.0%
+VS Code                  56 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-botto                    53 mins             █████████████░░░░░░░░░░░░   52.56% 
-state-machine            45 mins             ███████████░░░░░░░░░░░░░░   45.02% 
-discord-webhook-proxy    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+botto                    53 mins             ████████████████████████░   95.61% 
+discord-webhook-proxy    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.0%
+Windows                  56 mins             █████████████████████████   100.0%
 
 ```
 
@@ -115,5 +113,5 @@ Lua                      9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/11/2021
+ Last Updated on 12/11/2021
 <!--END_SECTION:waka-->
