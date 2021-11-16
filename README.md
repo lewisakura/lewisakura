@@ -38,13 +38,13 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333749%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333780%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,358 Contributions in the Year 2021
+> 🏆 1,359 Contributions in the Year 2021
  > 
-> 📦 290.4 kB Used in GitHub's Storage 
+> 📦 290.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,12 +65,12 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ```text
 Monday       169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Tuesday      123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
+Tuesday      122 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
 Wednesday    197 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
 Thursday     190 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
 Friday       171 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
 Saturday     186 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
-Sunday       274 commits    █████░░░░░░░░░░░░░░░░░░░░   20.92%
+Sunday       275 commits    █████░░░░░░░░░░░░░░░░░░░░   20.99%
 
 ```
 
@@ -81,17 +81,18 @@ Sunday       274 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               1 hr 31 mins        █████████████████████████   100.0%
+TypeScript               49 mins             █████████████████████████   99.93% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.0%
+VS Code                  49 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-botto                    1 hr 15 mins        ████████████████████░░░░░   82.39% 
-zoweb                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.61%
+botto                    33 mins             █████████████████░░░░░░░░   67.73% 
+zoweb                    16 mins             ████████░░░░░░░░░░░░░░░░░   32.27%
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.0%
+Windows                  49 mins             █████████████████████████   100.0%
 
 ```
 
@@ -112,5 +113,5 @@ Lua                      9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LewisTehMinerz/LewisTehMinerz/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/11/2021
+ Last Updated on 16/11/2021
 <!--END_SECTION:waka-->
