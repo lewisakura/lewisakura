@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/zt64/dm-typing-indicator/pull/9) in [zt64/dm-typing-indicator](https://github.com/zt64/dm-typing-indicator)
-2. ❗️ Opened issue [#8](https://github.com/zt64/dm-typing-indicator/issues/8) in [zt64/dm-typing-indicator](https://github.com/zt64/dm-typing-indicator)
-3. 🗣 Commented on [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-4. ❗️ Closed issue [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-5. 🎉 Merged PR [#4](https://github.com/LewisTehMinerz/discord-flags/pull/4) in [LewisTehMinerz/discord-flags](https://github.com/LewisTehMinerz/discord-flags)
+1. 🗣 Commented on [#9972](https://github.com/prisma/prisma/issues/9972) in [prisma/prisma](https://github.com/prisma/prisma)
+2. 💪 Opened PR [#9](https://github.com/zt64/dm-typing-indicator/pull/9) in [zt64/dm-typing-indicator](https://github.com/zt64/dm-typing-indicator)
+3. ❗️ Opened issue [#8](https://github.com/zt64/dm-typing-indicator/issues/8) in [zt64/dm-typing-indicator](https://github.com/zt64/dm-typing-indicator)
+4. 🗣 Commented on [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+5. ❗️ Closed issue [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
