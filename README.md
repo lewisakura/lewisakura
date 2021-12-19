@@ -27,11 +27,11 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/therescare/frontend/pull/1) in [therescare/frontend](https://github.com/therescare/frontend)
-2. 🗣 Commented on [#416](https://github.com/rojo-rbx/rojo/issues/416) in [rojo-rbx/rojo](https://github.com/rojo-rbx/rojo)
-3. 🗣 Commented on [#9972](https://github.com/prisma/prisma/issues/9972) in [prisma/prisma](https://github.com/prisma/prisma)
-4. ❗️ Opened issue [#8](https://github.com/zt64/dm-typing-indicator/issues/8) in [zt64/dm-typing-indicator](https://github.com/zt64/dm-typing-indicator)
-5. 🗣 Commented on [#8](https://github.com/LewisTehMinerz/RFU/issues/8) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+1. 💪 Opened PR [#491](https://github.com/Calinou/scoop-games/pull/491) in [Calinou/scoop-games](https://github.com/Calinou/scoop-games)
+2. ❗️ Closed issue [#11](https://github.com/LewisTehMinerz/RFU/issues/11) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+3. 🗣 Commented on [#11](https://github.com/LewisTehMinerz/RFU/issues/11) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+4. 🎉 Merged PR [#1](https://github.com/therescare/frontend/pull/1) in [therescare/frontend](https://github.com/therescare/frontend)
+5. 🗣 Commented on [#416](https://github.com/rojo-rbx/rojo/issues/416) in [rojo-rbx/rojo](https://github.com/rojo-rbx/rojo)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
