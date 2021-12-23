@@ -28,10 +28,10 @@ I'm a variety developer that dabbles in multiple fields such as web, desktop (Wi
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#491](https://github.com/Calinou/scoop-games/issues/491) in [Calinou/scoop-games](https://github.com/Calinou/scoop-games)
-2. 💪 Opened PR [#491](https://github.com/Calinou/scoop-games/pull/491) in [Calinou/scoop-games](https://github.com/Calinou/scoop-games)
-3. ❗️ Closed issue [#11](https://github.com/LewisTehMinerz/RFU/issues/11) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-4. 🗣 Commented on [#11](https://github.com/LewisTehMinerz/RFU/issues/11) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
-5. 🎉 Merged PR [#1](https://github.com/therescare/frontend/pull/1) in [therescare/frontend](https://github.com/therescare/frontend)
+2. 🗣 Commented on [#491](https://github.com/Calinou/scoop-games/issues/491) in [Calinou/scoop-games](https://github.com/Calinou/scoop-games)
+3. 💪 Opened PR [#491](https://github.com/Calinou/scoop-games/pull/491) in [Calinou/scoop-games](https://github.com/Calinou/scoop-games)
+4. ❗️ Closed issue [#11](https://github.com/LewisTehMinerz/RFU/issues/11) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
+5. 🗣 Commented on [#11](https://github.com/LewisTehMinerz/RFU/issues/11) in [LewisTehMinerz/RFU](https://github.com/LewisTehMinerz/RFU)
 <!--END_SECTION:activity-->
 
 ### Wakatime Stats
