@@ -1,0 +1,107 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GH_TOKEN }}
+
+          # Options
+          user: LewisTehMinerz
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/London
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+          # Activity
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+
+          # Anilist
+          plugin_anilist: yes
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites
+          plugin_anilist_shuffle: yes
+          plugin_anilist_user: .user.login
+
+          # Code
+          plugin_code: yes
+          plugin_code_lines: 12
+          plugin_code_load: 100
+          plugin_code_visibility: public
+
+          # Followup
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          # Habits
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+
+          # Introduction
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # IsoCalendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          # Lines
+          plugin_lines: yes
+
+          # Notable
+          plugin_notable: yes
+          plugin_notable_from: organization
+
+          # Repositories
+          plugin_repositories: 100
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 100
+
+          # Stars
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # Traffic
+          plugin_traffic: yes
+
+          # Wakatime
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
