@@ -86,11 +86,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
 
-          # Repositories
-          plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
-
           # Stars
           plugin_stars: yes
           plugin_stars_limit: 4
