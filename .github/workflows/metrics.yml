@@ -50,8 +50,8 @@ jobs:
           plugin_code_visibility: public
 
           # Followup
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          #plugin_followup: yes
+          #plugin_followup_sections: repositories
 
           # Habits
           plugin_habits: yes
