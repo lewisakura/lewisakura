@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3274" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3301" class="">
     <defs>
         <style/>
     </defs>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    28.1k views in last two weeks
+                                    28k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2571,7 +2571,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        191
+                                        190
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3542,35 +3542,35 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">LewisTehMinerz/LewisTehMinerz</span>
+                            <span class="blue space">therescare/frontend</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix the wrongly generated option
+                            user accounts and major reworks
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">50587ec0</span>
-                            <span class="code">.github/workflows/metrics.yml</span>
-                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">6f3d6146</span>
+                            <span class="code">src/routes/about/index.svelte</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--7</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -87,7 +87,6 @@</span><br />jobs:<br /><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">         plugin_notable_from: organization<br /></span></span><br /><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">         # Repositories<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">         plugin_repositories: 100<br /></span></span><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">         plugin_repositories: yes<br /></span><span class="token prefix unchanged"></span><span class="token line">         plugin_repositories_affiliations: owner<br /></span><span class="token prefix unchanged"></span><span class="token line">         plugin_repositories_batch: 100</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,10 +1,3 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;script context="module" lang="ts"&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">	import { browser, dev } from '$app/env';<br /></span><span class="token prefix deleted">-</span><span class="token line">	export const hydrate = dev;<br /></span><span class="token prefix deleted">-</span><span class="token line">	export const router = browser;<br /></span><span class="token prefix deleted">-</span><span class="token line">	export const prerender = true;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;/script&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span></span>&lt;script lang="ts"&gt;<br />	import lewis from './lewis.png';<br />	import friz from './friz.png';</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2022, 06:22:53 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 31 Jan 2022, 07:19:08 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
