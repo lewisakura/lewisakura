@@ -2374,7 +2374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KitsuneTV/Transmission</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transmission RPC Client</div>
@@ -2474,7 +2474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>roblox-aurora/zircon</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced debugging console for Roblox that uses the Zirconium runtime for commands</div>
@@ -3492,7 +3492,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2022, 17:25:33 (timezone Europe/London) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 22 Mar 2022, 18:25:02 (timezone Europe/London) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
