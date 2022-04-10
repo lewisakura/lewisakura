@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">hello yes i code</div>
+                        <div class="introduction">Unprofessionally developing software since a while ago.</div>
                     </section>
                 </div>
             </section>
@@ -2401,7 +2401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zesterer/ariadne</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fancy diagnostics &amp; error reporting crate</div>
@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zesterer/chumsky</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A parser library for humans with powerful error recovery.</div>
@@ -3559,7 +3559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2022, 22:17:47 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 10 Apr 2022, 23:20:31 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
