@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KitsuneTV/Transmission</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Mar 21 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transmission RPC Client</div>
@@ -3539,7 +3539,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2022, 21:23:21 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 20 Apr 2022, 22:18:27 (timezone Europe/London) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
