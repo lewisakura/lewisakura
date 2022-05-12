@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    38k views in last two weeks
+                                    38.1k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -244,14 +244,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.80023280072942" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="155.80023280072942" y="0" width="84.54249401576003" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="240.34272681648946" y="0" width="73.12215557009465" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="313.4648823865841" y="0" width="45.78046488326243" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="359.24534726984655" y="0" width="42.24920888916916" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="401.4945561590157" y="0" width="28.04618528240445" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="429.5407414414201" y="0" width="24.703723848236347" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="454.2444652896565" y="0" width="5.755534710343517" height="8" fill="#2F2530"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.74261446224273" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="155.74261446224273" y="0" width="84.51122834979058" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="240.2538428120333" y="0" width="73.09511339541508" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="313.3489562074484" y="0" width="45.76353426464714" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="359.1124904720955" y="0" width="42.233584206363425" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="401.3460746784589" y="0" width="28.035813188808614" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="429.3818878672675" y="0" width="24.86470594518476" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="454.24659381245226" y="0" width="5.753406187547683" height="8" fill="#2F2530"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -344,14 +344,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 25 commits)</small>
+                    <small class="h-details">(computed from last 30 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.3 characters per line of code written</li>
+                        <li>Has approximately 36.2 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -2604,8 +2604,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#82f8dbf</div>
-                                        <div class="message">fix filter?</div>
+                                        <div class="sha">#098dbed</div>
+                                        <div class="message">fix filtering on edits</div>
                                     </div>
                                 </div>
                             </section>
@@ -2624,8 +2624,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c059e86</div>
-                                        <div class="message">jesus christ im going to kill everyone in community</div>
+                                        <div class="sha">#de5b2c0</div>
+                                        <div class="message">exempt tickets</div>
                                     </div>
                                 </div>
                             </section>
@@ -2644,8 +2644,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b60daa5</div>
-                                        <div class="message">warnOnly filters</div>
+                                        <div class="sha">#ee65036</div>
+                                        <div class="message">remove testing phrase</div>
                                     </div>
                                 </div>
                             </section>
@@ -2664,8 +2664,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#184ef7a</div>
-                                        <div class="message">more filters</div>
+                                        <div class="sha">#55dea22</div>
+                                        <div class="message">testing word</div>
                                     </div>
                                 </div>
                             </section>
@@ -2684,8 +2684,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d059ec3</div>
-                                        <div class="message">oops</div>
+                                        <div class="sha">#5afd76a</div>
+                                        <div class="message">apply filter on edit</div>
                                     </div>
                                 </div>
                             </section>
@@ -2961,7 +2961,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 57.8k out of 90m users</span>
+                                    <span class="gh">ranked 57.9k out of 90m users</span>
                                 </div>
                                 <div class="text">Published 157 public repositories</div>
                             </div>
@@ -3544,7 +3544,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2022, 09:33:04 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 12 May 2022, 10:26:17 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
