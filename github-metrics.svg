@@ -3348,7 +3348,7 @@ But yes, it just seems to be a quirk with the dev server itself rather than JSO.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 596k out of 316m repositories</span>
+                                    <span class="gh">ranked 594k out of 316m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 34 stars</div>
                             </div>
@@ -3587,7 +3587,7 @@ But yes, it just seems to be a quirk with the dev server itself rather than JSO.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2022, 19:23:36 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 19 Jun 2022, 20:16:26 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
