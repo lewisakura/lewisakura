@@ -3147,7 +3147,7 @@ But yes, it just seems to be a quirk with the dev server itself rather than JSO.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 64.5k out of 92m users</span>
+                                    <span class="gh">ranked 64.6k out of 92m users</span>
                                 </div>
                                 <div class="text">Followed by 104 users</div>
                             </div>
@@ -3534,7 +3534,7 @@ But yes, it just seems to be a quirk with the dev server itself rather than JSO.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2022, 05:42:31 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 21 Jun 2022, 06:24:25 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
