@@ -2383,7 +2383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>resume/resume.github.com</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Resumes generated using the GitHub informations</div>
@@ -3088,7 +3088,7 @@ Also, reset your webhook. Don't post webhook URLs publicly.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 64.5k out of 93m users</span>
+                                    <span class="gh">ranked 64.6k out of 93m users</span>
                                 </div>
                                 <div class="text">Followed by 105 users</div>
                             </div>
@@ -3475,7 +3475,7 @@ Also, reset your webhook. Don't post webhook URLs publicly.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2022, 12:18:45 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 13:43:55 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
