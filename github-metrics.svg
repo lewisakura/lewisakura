@@ -2388,7 +2388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>resume/resume.github.com</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Resumes generated using the GitHub informations</div>
@@ -3470,7 +3470,7 @@ Also, reset your webhook. Don't post webhook URLs publicly.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2022, 03:08:37 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 8 Jul 2022, 05:00:51 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
