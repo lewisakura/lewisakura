@@ -3541,7 +3541,7 @@ Also, reset your webhook. Don't post webhook URLs publicly.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2022, 18:19:24 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 16 Jul 2022, 19:24:44 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
