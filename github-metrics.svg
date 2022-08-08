@@ -3140,7 +3140,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 65.1k out of 95m users</span>
+                                    <span class="gh">ranked 65.2k out of 95m users</span>
                                 </div>
                                 <div class="text">Followed by 106 users</div>
                             </div>
@@ -3253,7 +3253,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 423k out of 332m repositories</span>
+                                    <span class="gh">ranked 424k out of 332m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 23 times</div>
                             </div>
@@ -3527,7 +3527,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2022, 22:18:59 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 8 Aug 2022, 23:23:47 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
