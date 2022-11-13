@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          user: LewisTehMinerz
+          user: lewisakura
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
