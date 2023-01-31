@@ -2322,7 +2322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuxt-themes/docus</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write beautiful documentations with Nuxt 3.</div>
@@ -3443,7 +3443,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2023, 14:17:04 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 31 Jan 2023, 15:19:34 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
