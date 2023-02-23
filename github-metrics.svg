@@ -3364,7 +3364,7 @@ Async isn't a problem (the Redis client I use has a sync option!) but it would b
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2023, 14:06:08 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 23 Feb 2023, 15:06:31 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
