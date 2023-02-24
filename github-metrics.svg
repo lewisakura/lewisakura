@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3069" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3045" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -101,7 +101,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            7 Issues opened
+                            8 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    75.8k added, 12.9k removed
+                                    479k added, 307k removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    21.4k views in last two weeks
+                                    21.3k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2617,6 +2617,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#522 [Bug] Card component no longer working</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">Vendicated/Vencord</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2691,23 +2708,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#28 Add new flags <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /></span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Lulalaby in <span class="repo">lewisakura/discord-flags</span></div>
-                                    <div class="comment">sauce!!!</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2724,13 +2724,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~14 coding hours recorded
+                            ~10 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on vencord-settings…
+                            Working on vencord
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2765,29 +2765,29 @@
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">vencord-settings-poc</span>
-                                <div class="bar" style="width: 39.175999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">49%</span>
+                                <span class="name">vencord</span>
+                                <div class="bar" style="width: 43.263999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">54%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">vencord</span>
-                                <div class="bar" style="width: 29.4%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">37%</span>
+                                <span class="name">vencord-settings-poc</span>
+                                <div class="bar" style="width: 17.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">eco</span>
-                                <div class="bar" style="width: 6.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 14.568000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Microwave</span>
-                                <div class="bar" style="width: 3.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <span class="name">steam-workers</span>
+                                <div class="bar" style="width: 2.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">lewisakura.moe</span>
-                                <div class="bar" style="width: 0.9279999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 1.3119999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -2796,27 +2796,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 58.967999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">74%</span>
+                                <div class="bar" style="width: 60.52799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">76%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 9.024%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 13.152000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JSON</span>
-                                <div class="bar" style="width: 1.4480000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">XAML</span>
-                                <div class="bar" style="width: 1.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Docker</span>
+                                <div class="bar" style="width: 1.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 1.1119999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.9039999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">INI</span>
+                                <div class="bar" style="width: 0.8640000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -3540,7 +3540,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2023, 00:21:26 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Feb 2023, 01:33:47 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
