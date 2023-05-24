@@ -2926,7 +2926,7 @@ Currently, if there are &lt;10 raiders, you can't actually turn off the raid sir
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63.8k out of 116m users</span>
+                                    <span class="gh">ranked 63.9k out of 116m users</span>
                                 </div>
                                 <div class="text">Followed by 132 users</div>
                             </div>
@@ -3320,7 +3320,7 @@ Currently, if there are &lt;10 raiders, you can't actually turn off the raid sir
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2023, 15:06:22 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 May 2023, 16:06:24 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
