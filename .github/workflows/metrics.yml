@@ -66,6 +66,7 @@ jobs:
 
           # Lines
           plugin_lines: yes
+          plugin_lines_sections: base
 
           # Notable
           plugin_notable: yes
