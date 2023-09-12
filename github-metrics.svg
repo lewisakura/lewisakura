@@ -2775,7 +2775,7 @@ This is quite unfeasible for us to do because it requires us to reimplement the 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2023, 04:06:05 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Sept 2023, 05:06:29 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
