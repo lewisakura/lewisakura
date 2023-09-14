@@ -3187,7 +3187,7 @@ This is quite unfeasible for us to do because it requires us to reimplement the 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 514k out of 42.5m repositories</span>
+                                    <span class="gh">ranked 484k out of 47.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 55 stars</div>
                             </div>
@@ -3369,7 +3369,7 @@ This is quite unfeasible for us to do because it requires us to reimplement the 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2023, 17:06:30 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2023, 18:05:58 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
