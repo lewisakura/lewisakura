@@ -3015,7 +3015,7 @@ This is quite unfeasible for us to do because it requires us to reimplement the 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 65.6k out of 119m users</span>
+                                    <span class="gh">ranked 65.7k out of 119m users</span>
                                 </div>
                                 <div class="text">Followed by 137 users</div>
                             </div>
@@ -3192,7 +3192,7 @@ This is quite unfeasible for us to do because it requires us to reimplement the 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 514k out of 43.1m repositories</span>
+                                    <span class="gh">ranked 514k out of 44.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 55 stars</div>
                             </div>
@@ -3374,7 +3374,7 @@ This is quite unfeasible for us to do because it requires us to reimplement the 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2023, 11:06:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2023, 12:05:47 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
