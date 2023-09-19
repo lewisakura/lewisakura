@@ -2375,7 +2375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>romeovs/creep</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a pretty sweet 4px wide pixel font.</div>
@@ -2428,7 +2428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nerdypepper/scientifica</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tall, condensed, bitmap font for geeks</div>
@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IdreesInc/Monocraft</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A monospaced programming font inspired by the Minecraft typeface</div>
@@ -2849,7 +2849,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 55.7k out of 119m users</span>
+                                    <span class="gh">ranked 55.7k out of 118m users</span>
                                 </div>
                                 <div class="text">Published 182 public repositories</div>
                             </div>
@@ -2978,7 +2978,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 65.8k out of 119m users</span>
+                                    <span class="gh">ranked 65.8k out of 118m users</span>
                                 </div>
                                 <div class="text">Followed by 137 users</div>
                             </div>
@@ -3155,7 +3155,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 514k out of 42.4m repositories</span>
+                                    <span class="gh">ranked 514k out of 37.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 55 stars</div>
                             </div>
@@ -3337,7 +3337,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2023, 09:07:10 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2023, 10:06:10 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
