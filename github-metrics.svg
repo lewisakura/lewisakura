@@ -2327,7 +2327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Vendicated/Vencord</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The cutest Discord client mod</div>
@@ -3160,7 +3160,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 515k out of 49.3m repositories</span>
+                                    <span class="gh">ranked 515k out of 44.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 55 stars</div>
                             </div>
@@ -3342,7 +3342,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2023, 19:06:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2023, 20:06:07 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
