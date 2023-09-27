@@ -2941,7 +2941,7 @@ So, for the reasons above, please don't.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.8k out of 40m repositories</span>
+                                    <span class="gh">ranked 12.8k out of 42.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3253 stars</div>
                             </div>
@@ -3355,7 +3355,7 @@ So, for the reasons above, please don't.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2023, 14:07:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2023, 15:06:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
