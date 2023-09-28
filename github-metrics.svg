@@ -2385,7 +2385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>romeovs/creep</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a pretty sweet 4px wide pixel font.</div>
@@ -2438,7 +2438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nerdypepper/scientifica</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tall, condensed, bitmap font for geeks</div>
@@ -2491,7 +2491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IdreesInc/Monocraft</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A monospaced programming font inspired by the Minecraft typeface</div>
@@ -2937,7 +2937,7 @@ So, for the reasons above, please don't.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.53625 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.57499999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2960,9 +2960,9 @@ So, for the reasons above, please don't.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.8k out of 38.6m repositories</span>
+                                    <span class="gh">ranked 12.8k out of 47.6m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 3259 stars</div>
+                                <div class="text">Maintaining a repository with 3260 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3374,7 +3374,7 @@ So, for the reasons above, please don't.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2023, 09:06:41 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2023, 10:06:25 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
