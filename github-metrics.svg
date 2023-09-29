@@ -2965,7 +2965,7 @@ So, for the reasons above, please don't.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.7k out of 50.5m repositories</span>
+                                    <span class="gh">ranked 12.7k out of 49.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3275 stars</div>
                             </div>
@@ -3058,7 +3058,7 @@ So, for the reasons above, please don't.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 65.6k out of 120m users</span>
+                                    <span class="gh">ranked 65.5k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 138 users</div>
                             </div>
@@ -3379,7 +3379,7 @@ So, for the reasons above, please don't.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2023, 06:06:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2023, 07:06:40 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
