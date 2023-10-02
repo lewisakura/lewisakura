@@ -2847,7 +2847,7 @@ also, as shown by their own example, it's extremely inconvenient to do this and 
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 55.5k out of 118m users</span>
+                                    <span class="gh">ranked 55.5k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 183 public repositories</div>
                             </div>
@@ -2921,7 +2921,7 @@ also, as shown by their own example, it's extremely inconvenient to do this and 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.6k out of 53.9m repositories</span>
+                                    <span class="gh">ranked 12.6k out of 48m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3314 stars</div>
                             </div>
@@ -3014,7 +3014,7 @@ also, as shown by their own example, it's extremely inconvenient to do this and 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 65.1k out of 118m users</span>
+                                    <span class="gh">ranked 65.1k out of 121m users</span>
                                 </div>
                                 <div class="text">Followed by 139 users</div>
                             </div>
@@ -3335,7 +3335,7 @@ also, as shown by their own example, it's extremely inconvenient to do this and 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2023, 21:06:31 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2023, 22:06:11 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
