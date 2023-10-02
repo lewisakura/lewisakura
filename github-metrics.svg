@@ -2921,7 +2921,7 @@ also, as shown by their own example, it's extremely inconvenient to do this and 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.6k out of 44.3m repositories</span>
+                                    <span class="gh">ranked 12.6k out of 47.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3313 stars</div>
                             </div>
@@ -3335,7 +3335,7 @@ also, as shown by their own example, it's extremely inconvenient to do this and 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2023, 17:06:41 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2023, 18:06:13 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
