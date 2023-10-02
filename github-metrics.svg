@@ -2317,7 +2317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Vendicated/Vencord</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The cutest Discord client mod</div>
@@ -2921,7 +2921,7 @@ also, as shown by their own example, it's extremely inconvenient to do this and 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.6k out of 42.8m repositories</span>
+                                    <span class="gh">ranked 12.6k out of 40.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3314 stars</div>
                             </div>
@@ -3335,7 +3335,7 @@ also, as shown by their own example, it's extremely inconvenient to do this and 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2023, 19:06:30 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2023, 20:06:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
