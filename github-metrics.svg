@@ -2914,7 +2914,7 @@ the starts of porting the docs from the website to the repo</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="143.6075 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="143.56875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2937,9 +2937,9 @@ the starts of porting the docs from the website to the repo</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 8.42k out of 69.8m repositories</span>
+                                    <span class="gh">ranked 8.43k out of 66.1m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 4706 stars</div>
+                                <div class="text">Maintaining a repository with 4705 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3351,7 +3351,7 @@ the starts of porting the docs from the website to the repo</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2023, 17:06:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2023, 18:06:37 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
