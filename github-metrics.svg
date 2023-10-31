@@ -2375,7 +2375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lunar-potato/react-portfolio</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A portfolio developed with Next.js and TailwindCSS.</div>
@@ -2931,7 +2931,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 8.39k out of 71.6m repositories</span>
+                                    <span class="gh">ranked 8.39k out of 69m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4731 stars</div>
                             </div>
@@ -3345,7 +3345,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2023, 22:06:20 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2023, 23:06:15 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
