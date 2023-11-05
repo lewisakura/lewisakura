@@ -2349,7 +2349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Vencord/Docs</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vencord user and developer documentation</div>
@@ -2947,7 +2947,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 8.23k out of 72.7m repositories</span>
+                                    <span class="gh">ranked 8.23k out of 74.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4818 stars</div>
                             </div>
@@ -3361,7 +3361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2023, 09:05:47 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2023, 10:05:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
