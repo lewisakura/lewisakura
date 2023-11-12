@@ -2402,7 +2402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lunar-potato/react-portfolio</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A portfolio developed with Next.js and TailwindCSS.</div>
@@ -2884,7 +2884,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 55.2k out of 125m users</span>
+                                    <span class="gh">ranked 55.2k out of 118m users</span>
                                 </div>
                                 <div class="text">Published 185 public repositories</div>
                             </div>
@@ -2958,7 +2958,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 8.06k out of 46.7m repositories</span>
+                                    <span class="gh">ranked 8.06k out of 46m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4917 stars</div>
                             </div>
@@ -3051,7 +3051,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 64.7k out of 125m users</span>
+                                    <span class="gh">ranked 64.7k out of 118m users</span>
                                 </div>
                                 <div class="text">Followed by 142 users</div>
                             </div>
@@ -3372,7 +3372,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2023, 22:06:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2023, 23:05:53 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
