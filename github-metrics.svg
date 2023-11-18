@@ -2851,7 +2851,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 55.3k out of 125m users</span>
+                                    <span class="gh">ranked 55.3k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 185 public repositories</div>
                             </div>
@@ -2925,7 +2925,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 7.96k out of 46.8m repositories</span>
+                                    <span class="gh">ranked 7.96k out of 51.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4981 stars</div>
                             </div>
@@ -3018,7 +3018,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 64.4k out of 125m users</span>
+                                    <span class="gh">ranked 64.4k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 143 users</div>
                             </div>
@@ -3339,7 +3339,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2023, 00:19:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2023, 01:28:58 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
