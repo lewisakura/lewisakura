@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3059 Commits
+                            2952 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2396,7 +2396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lunar-potato/react-portfolio</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A portfolio developed with Next.js and TailwindCSS.</div>
@@ -2856,7 +2856,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 55.3k out of 125m users</span>
+                                    <span class="gh">ranked 55.3k out of 124m users</span>
                                 </div>
                                 <div class="text">Published 185 public repositories</div>
                             </div>
@@ -2907,7 +2907,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.217 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.248 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2930,9 +2930,9 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.90k out of 51.7m repositories</span>
+                                    <span class="gh">ranked 7.90k out of 45.9m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5007 stars</div>
+                                <div class="text">Maintaining a repository with 5008 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3023,7 +3023,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 64.4k out of 125m users</span>
+                                    <span class="gh">ranked 64.4k out of 124m users</span>
                                 </div>
                                 <div class="text">Followed by 143 users</div>
                             </div>
@@ -3344,7 +3344,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2023, 22:05:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2023, 23:06:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
