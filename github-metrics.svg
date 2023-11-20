@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lunar-potato/react-portfolio</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A portfolio developed with Next.js and TailwindCSS.</div>
@@ -2900,7 +2900,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.88k out of 40.6m repositories</span>
+                                    <span class="gh">ranked 7.88k out of 55.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5023 stars</div>
                             </div>
@@ -3314,7 +3314,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2023, 22:06:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2023, 23:06:19 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
