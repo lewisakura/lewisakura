@@ -2858,7 +2858,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.87k out of 48.6m repositories</span>
+                                    <span class="gh">ranked 7.87k out of 43.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5026 stars</div>
                             </div>
@@ -3272,7 +3272,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2023, 13:07:58 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 14:06:13 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
