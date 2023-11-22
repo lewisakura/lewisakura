@@ -2319,7 +2319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Vencord/Docs</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vencord user and developer documentation</div>
@@ -2942,7 +2942,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.87k out of 49.4m repositories</span>
+                                    <span class="gh">ranked 7.87k out of 41.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5029 stars</div>
                             </div>
@@ -3356,7 +3356,7 @@ https://github.com/luau-lang/site/blob/c4e26ca38e3d075a365f548951f05a9be0eda345/
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2023, 09:06:10 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2023, 10:06:21 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
