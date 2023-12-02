@@ -2935,7 +2935,7 @@ re delay: one of the features is instant hotreloading - parse errors should gene
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.76k out of 53.2m repositories</span>
+                                    <span class="gh">ranked 7.76k out of 43.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5105 stars</div>
                             </div>
@@ -3349,7 +3349,7 @@ re delay: one of the features is instant hotreloading - parse errors should gene
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Dec 2023, 09:05:46 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Dec 2023, 10:05:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
