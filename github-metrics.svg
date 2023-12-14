@@ -2949,7 +2949,7 @@ Co-authored-by: V &lt;vendicated@riseup.net&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 54.7k out of 125m users</span>
+                                    <span class="gh">ranked 54.7k out of 126m users</span>
                                 </div>
                                 <div class="text">Published 187 public repositories</div>
                             </div>
@@ -3000,7 +3000,7 @@ Co-authored-by: V &lt;vendicated@riseup.net&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.781000000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.812 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3023,9 +3023,9 @@ Co-authored-by: V &lt;vendicated@riseup.net&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.55k out of 40.7m repositories</span>
+                                    <span class="gh">ranked 7.54k out of 40.8m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5251 stars</div>
+                                <div class="text">Maintaining a repository with 5252 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3116,7 +3116,7 @@ Co-authored-by: V &lt;vendicated@riseup.net&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 65.2k out of 125m users</span>
+                                    <span class="gh">ranked 65.2k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 143 users</div>
                             </div>
@@ -3437,7 +3437,7 @@ Co-authored-by: V &lt;vendicated@riseup.net&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2023, 20:06:04 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2023, 21:06:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
