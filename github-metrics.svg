@@ -3014,7 +3014,7 @@ Co-authored-by: V &lt;vendicated@riseup.net&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.99 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.021 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3037,9 +3037,9 @@ Co-authored-by: V &lt;vendicated@riseup.net&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.49k out of 51.8m repositories</span>
+                                    <span class="gh">ranked 7.49k out of 55.8m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5290 stars</div>
+                                <div class="text">Maintaining a repository with 5291 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3451,7 +3451,7 @@ Co-authored-by: V &lt;vendicated@riseup.net&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2023, 13:05:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2023, 14:05:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
