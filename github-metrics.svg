@@ -2908,7 +2908,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.49k out of 47m repositories</span>
+                                    <span class="gh">ranked 7.49k out of 52.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5296 stars</div>
                             </div>
@@ -3001,7 +3001,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 61.2k out of 126m users</span>
+                                    <span class="gh">ranked 65.3k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 143 users</div>
                             </div>
@@ -3322,7 +3322,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2023, 03:06:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2023, 04:06:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
