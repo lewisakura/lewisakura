@@ -2930,7 +2930,7 @@ i mean worst comes to worst, write a polyfill of
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.41k out of 45.8m repositories</span>
+                                    <span class="gh">ranked 7.41k out of 48m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5356 stars</div>
                             </div>
@@ -3344,7 +3344,7 @@ i mean worst comes to worst, write a polyfill of
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Dec 2023, 09:06:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Dec 2023, 10:06:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
