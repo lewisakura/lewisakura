@@ -2939,7 +2939,7 @@ i'm just going to lock this for now because this is getting awfully silly when n
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.38k out of 46.9m repositories</span>
+                                    <span class="gh">ranked 7.38k out of 55.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5373 stars</div>
                             </div>
@@ -3353,7 +3353,7 @@ i'm just going to lock this for now because this is getting awfully silly when n
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2023, 19:05:50 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 20:05:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
