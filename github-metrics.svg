@@ -2844,22 +2844,22 @@ Discord fixed their issue with images getting converted to webp losing quality. 
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">flamework-testing</span>
-                                <div class="bar" style="width: 39.512%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">49%</span>
+                                <div class="bar" style="width: 37.088%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">46%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">doasktoask</span>
-                                <div class="bar" style="width: 28.344%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">35%</span>
+                                <div class="bar" style="width: 26.6%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">33%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">vencord</span>
-                                <div class="bar" style="width: 7.856000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 12.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">vesktop</span>
-                                <div class="bar" style="width: 4.295999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -2869,27 +2869,27 @@ Discord fixed their issue with images getting converted to webp losing quality. 
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 38.536%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">48%</span>
+                                <div class="bar" style="width: 41.080000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">51%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 26.688000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">33%</span>
+                                <div class="bar" style="width: 25.048%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">31%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 5.6000000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 3.84%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.3840000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.176%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -3086,7 +3086,7 @@ Discord fixed their issue with images getting converted to webp losing quality. 
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.39k out of 53.5m repositories</span>
+                                    <span class="gh">ranked 7.39k out of 54.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5368 stars</div>
                             </div>
@@ -3500,7 +3500,7 @@ Discord fixed their issue with images getting converted to webp losing quality. 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2023, 00:19:41 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 01:27:50 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
