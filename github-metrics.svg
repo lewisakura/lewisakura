@@ -2921,7 +2921,7 @@ it's `undefined` 🤦</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 54.5k out of 127m users</span>
+                                    <span class="gh">ranked 54.6k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -2995,7 +2995,7 @@ it's `undefined` 🤦</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.31k out of 41.7m repositories</span>
+                                    <span class="gh">ranked 7.31k out of 48.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5437 stars</div>
                             </div>
@@ -3409,7 +3409,7 @@ it's `undefined` 🤦</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2024, 09:06:04 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2024, 10:06:07 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
