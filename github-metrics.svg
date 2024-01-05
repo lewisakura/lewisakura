@@ -2921,7 +2921,7 @@ it's `undefined` 🤦</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 54.5k out of 126m users</span>
+                                    <span class="gh">ranked 54.5k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -2995,7 +2995,7 @@ it's `undefined` 🤦</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.32k out of 50.1m repositories</span>
+                                    <span class="gh">ranked 7.32k out of 49.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5434 stars</div>
                             </div>
@@ -3088,7 +3088,7 @@ it's `undefined` 🤦</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 64.9k out of 126m users</span>
+                                    <span class="gh">ranked 64.9k out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 145 users</div>
                             </div>
@@ -3409,7 +3409,7 @@ it's `undefined` 🤦</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2024, 03:06:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2024, 04:06:29 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
