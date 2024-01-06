@@ -3084,7 +3084,7 @@ it's `undefined` 🤦</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.30k out of 51.8m repositories</span>
+                                    <span class="gh">ranked 7.30k out of 55.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5449 stars</div>
                             </div>
@@ -3258,7 +3258,7 @@ it's `undefined` 🤦</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 257k out of 51.8m repositories</span>
+                                    <span class="gh">ranked 257k out of 55.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 48 times</div>
                             </div>
@@ -3579,7 +3579,7 @@ it's `undefined` 🤦</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2024, 11:05:37 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2024, 12:07:32 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
