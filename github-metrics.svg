@@ -2880,7 +2880,7 @@ Co-authored-by: fawn &lt;fawn@rinici.de&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 54.9k out of 123m users</span>
+                                    <span class="gh">ranked 54.9k out of 128m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -2895,7 +2895,7 @@ Co-authored-by: fawn &lt;fawn@rinici.de&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.20670773442845 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.29158110882956 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2954,7 +2954,7 @@ Co-authored-by: fawn &lt;fawn@rinici.de&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.05k out of 39.3m repositories</span>
+                                    <span class="gh">ranked 7.05k out of 43.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5643 stars</div>
                             </div>
@@ -3047,7 +3047,7 @@ Co-authored-by: fawn &lt;fawn@rinici.de&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 65.6k out of 123m users</span>
+                                    <span class="gh">ranked 65.6k out of 128m users</span>
                                 </div>
                                 <div class="text">Followed by 145 users</div>
                             </div>
@@ -3368,7 +3368,7 @@ Co-authored-by: fawn &lt;fawn@rinici.de&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2024, 15:06:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2024, 16:06:29 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
