@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kikipoulet/SukiUI</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UI Theme for AvaloniaUI</div>
@@ -2940,7 +2940,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.97k out of 79.2m repositories</span>
+                                    <span class="gh">ranked 6.97k out of 65.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5718 stars</div>
                             </div>
@@ -3354,7 +3354,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2024, 07:06:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Feb 2024, 08:06:33 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
