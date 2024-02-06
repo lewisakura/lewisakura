@@ -2971,7 +2971,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.777 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.807999999999996 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2994,9 +2994,9 @@ feel free to open a PR to make the doc change, but keep the above two comments i
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.91k out of 70.6m repositories</span>
+                                    <span class="gh">ranked 6.91k out of 70.8m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5767 stars</div>
+                                <div class="text">Maintaining a repository with 5768 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3168,7 +3168,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 254k out of 70.6m repositories</span>
+                                    <span class="gh">ranked 254k out of 70.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 49 times</div>
                             </div>
@@ -3489,7 +3489,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2024, 22:05:46 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2024, 23:05:53 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
