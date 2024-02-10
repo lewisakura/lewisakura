@@ -2914,7 +2914,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 55.3k out of 128m users</span>
+                                    <span class="gh">ranked 55.3k out of 130m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -3020,7 +3020,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.87k out of 76.8m repositories</span>
+                                    <span class="gh">ranked 6.87k out of 72.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5805 stars</div>
                             </div>
@@ -3148,7 +3148,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 65.1k out of 128m users</span>
+                                    <span class="gh">ranked 65.1k out of 130m users</span>
                                 </div>
                                 <div class="text">Followed by 147 users</div>
                             </div>
@@ -3194,7 +3194,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 249k out of 76.8m repositories</span>
+                                    <span class="gh">ranked 249k out of 72.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 50 times</div>
                             </div>
@@ -3515,7 +3515,7 @@ feel free to open a PR to make the doc change, but keep the above two comments i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2024, 07:06:10 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2024, 08:06:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
