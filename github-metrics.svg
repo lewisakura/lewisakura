@@ -3083,7 +3083,7 @@ somehow people accidently enable it then get confused why vencord has "auto corr
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.482 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.544 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3106,9 +3106,9 @@ somehow people accidently enable it then get confused why vencord has "auto corr
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.84k out of 64.3m repositories</span>
+                                    <span class="gh">ranked 6.84k out of 82.6m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5822 stars</div>
+                                <div class="text">Maintaining a repository with 5824 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3280,7 +3280,7 @@ somehow people accidently enable it then get confused why vencord has "auto corr
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 249k out of 64.3m repositories</span>
+                                    <span class="gh">ranked 249k out of 82.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 50 times</div>
                             </div>
@@ -3601,7 +3601,7 @@ somehow people accidently enable it then get confused why vencord has "auto corr
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Feb 2024, 20:06:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2024, 21:05:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
