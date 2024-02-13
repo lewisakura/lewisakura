@@ -2984,7 +2984,7 @@ somehow people accidently enable it then get confused why vencord has "auto corr
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.84k out of 68.9m repositories</span>
+                                    <span class="gh">ranked 6.84k out of 70.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5832 stars</div>
                             </div>
@@ -3398,7 +3398,7 @@ somehow people accidently enable it then get confused why vencord has "auto corr
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2024, 09:06:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2024, 10:05:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
