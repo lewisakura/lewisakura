@@ -2972,7 +2972,7 @@ does it work if you use the native titlebar rather than the discord one on veskt
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.79k out of 71.8m repositories</span>
+                                    <span class="gh">ranked 6.79k out of 74m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5879 stars</div>
                             </div>
@@ -3146,7 +3146,7 @@ does it work if you use the native titlebar rather than the discord one on veskt
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 250k out of 71.8m repositories</span>
+                                    <span class="gh">ranked 250k out of 74m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 50 times</div>
                             </div>
@@ -3467,7 +3467,7 @@ does it work if you use the native titlebar rather than the discord one on veskt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Feb 2024, 07:06:25 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2024, 08:06:10 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
