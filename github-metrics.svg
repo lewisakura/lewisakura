@@ -2810,7 +2810,7 @@ Locking.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 55.5k out of 130m users</span>
+                                    <span class="gh">ranked 55.5k out of 129m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -2884,7 +2884,7 @@ Locking.</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.75k out of 55m repositories</span>
+                                    <span class="gh">ranked 6.75k out of 75.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5913 stars</div>
                             </div>
@@ -2977,7 +2977,7 @@ Locking.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 64.4k out of 130m users</span>
+                                    <span class="gh">ranked 64.5k out of 129m users</span>
                                 </div>
                                 <div class="text">Followed by 149 users</div>
                             </div>
@@ -3298,7 +3298,7 @@ Locking.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2024, 13:06:01 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Feb 2024, 14:05:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
