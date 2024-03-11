@@ -2889,7 +2889,7 @@ it's just saying that it can't resolve the address, it's wrong</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.56k out of 70.3m repositories</span>
+                                    <span class="gh">ranked 6.56k out of 69.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6106 stars</div>
                             </div>
@@ -3303,7 +3303,7 @@ it's just saying that it can't resolve the address, it's wrong</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2024, 08:07:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2024, 09:06:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
