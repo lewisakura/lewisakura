@@ -2868,7 +2868,7 @@ Either way I don't think it's a good idea to expose this sort of stuff, and it w
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.98k out of 202m repositories</span>
+                                    <span class="gh">ranked 5.98k out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6760 stars</div>
                             </div>
@@ -3282,7 +3282,7 @@ Either way I don't think it's a good idea to expose this sort of stuff, and it w
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2024, 23:05:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 May 2024, 00:06:22 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
