@@ -3362,7 +3362,7 @@ Either way I don't think it's a good idea to expose this sort of stuff, and it w
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2024, 03:18:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 May 2024, 04:06:28 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
