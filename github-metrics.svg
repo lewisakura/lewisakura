@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paulmcauley/klassy</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Klassy is a highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.</div>
@@ -2975,7 +2975,7 @@ i'm loving the progress so far though, and we'd really appreciate you hopping ov
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.372 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.403 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2998,9 +2998,9 @@ i'm loving the progress so far though, and we'd really appreciate you hopping ov
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.76k out of 201m repositories</span>
+                                    <span class="gh">ranked 5.76k out of 196m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7012 stars</div>
+                                <div class="text">Maintaining a repository with 7013 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3172,7 +3172,7 @@ i'm loving the progress so far though, and we'd really appreciate you hopping ov
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 248k out of 201m repositories</span>
+                                    <span class="gh">ranked 248k out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 51 times</div>
                             </div>
@@ -3493,7 +3493,7 @@ i'm loving the progress so far though, and we'd really appreciate you hopping ov
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2024, 18:06:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2024, 19:06:36 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
