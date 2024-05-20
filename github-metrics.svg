@@ -3016,7 +3016,7 @@ Something like "ExpressionsAPI" would be more appropriate, since your API involv
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.72k out of 206m repositories</span>
+                                    <span class="gh">ranked 5.72k out of 200m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7067 stars</div>
                             </div>
@@ -3190,7 +3190,7 @@ Something like "ExpressionsAPI" would be more appropriate, since your API involv
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 249k out of 206m repositories</span>
+                                    <span class="gh">ranked 249k out of 200m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 51 times</div>
                             </div>
@@ -3511,7 +3511,7 @@ Something like "ExpressionsAPI" would be more appropriate, since your API involv
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2024, 01:21:27 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 May 2024, 02:30:43 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
