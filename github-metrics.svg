@@ -3093,7 +3093,7 @@ handling the ratelimits on their behalf.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="67.797 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="67.89 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3116,9 +3116,9 @@ handling the ratelimits on their behalf.</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.64k out of 196m repositories</span>
+                                    <span class="gh">ranked 5.63k out of 194m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7187 stars</div>
+                                <div class="text">Maintaining a repository with 7190 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3290,7 +3290,7 @@ handling the ratelimits on their behalf.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 249k out of 196m repositories</span>
+                                    <span class="gh">ranked 249k out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 51 times</div>
                             </div>
@@ -3611,7 +3611,7 @@ handling the ratelimits on their behalf.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2024, 18:06:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2024, 19:06:54 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
