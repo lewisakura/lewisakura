@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3061" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3354" class="">
     <defs>
         <style/>
     </defs>
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            774 issue comments
+                            775 issue comments
                         </div>
                     </section>
                     <section>
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    2.35 GB used
+                                    2.32 GB used
                                 </div>
                             </section>
                             <section>
@@ -216,7 +216,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    4.46k views in last two weeks
+                                    4.48k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -350,7 +350,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 2 commits)</small>
+                    <small class="h-details">(computed from last 3 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2622,6 +2622,133 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1795 [LoadingQuotes] Custom quotes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by UlyssesZh in <span class="repo">Vendicated/Vencord</span></div>
+                                    <div class="comment">thank you!</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 67 commits in
+                                        <span class="repo">UlyssesZh/Vencord</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">custom-quotes</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cddc811</div>
+                                        <div class="message">feat(ViewIcons): Group &amp; User DMs icons support (#2464)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb19642</div>
+                                        <div class="message">fix(readAllNotificationsButton): Mark threads as read (#2437)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4281b7a</div>
+                                        <div class="message">ShowTimeoutDuration: Simplify tooltip style, allow changing style without reload (#2441)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09f8944</div>
+                                        <div class="message">MessageLatency: Fix wrong constant &amp; false positive</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b4ecff</div>
+                                        <div class="message">feat(MessageLatency): Show milliseconds option (#2454)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0c897f</div>
+                                        <div class="message">extractAndLoadChunksLazy: Cache result to avoid searching factories everytime</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0460374</div>
+                                        <div class="message">Fix: Plugins without start/stop function failing to stop/start (#2463)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54f58cd</div>
+                                        <div class="message">Fix: Canonicalize regex finds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f74da73</div>
+                                        <div class="message">feat: Allow finds to use regex (#2452)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4da8b9a</div>
+                                        <div class="message">PetPet: Fix Upload Image Option (#2461)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4d6461</div>
+                                        <div class="message">feat(plugins/openInApp) Add tidal support (#2404)
+
+Co-authored-by: vee &lt;vendicated@riseup.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d57267</div>
+                                        <div class="message">new plugin ValidReply ~ fix "Message could not be loaded" (#2337)
+
+Co-authored-by: V &lt;vendicated@riseup.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1fea842</div>
+                                        <div class="message">BetterFolders: Fix scrolling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46801de</div>
+                                        <div class="message">chore: tidy up suggested vscode extensions list (#2221)
+
+Co-authored-by: Vendicated &lt;vendicated@riseup.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e4724e</div>
+                                        <div class="message">Settings: remove obsolete patch; add redundancy &amp; more useful dbg copy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#840d571</div>
+                                        <div class="message">Fix BetterSettings &amp; StartupTimings patch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97dd56c</div>
+                                        <div class="message">MoreUserTags: Add chat moderator tag (#2424)
+
+Co-authored-by: Vendicated &lt;vendicated@riseup.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81d3f5d</div>
+                                        <div class="message">new plugin CtrlEnterSend (#1794)
+
+Co-authored-by: vee &lt;vendicated@riseup.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5232a85</div>
+                                        <div class="message">new plugin NoServerEmoji ~ hides server emojis from autocomplete (#1787)
+
+Co-authored-by: vee &lt;vendicated@riseup.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8b3869</div>
+                                        <div class="message">ThemeAttributes: add larger avatar url variables to avatars (#2449)
+
+Co-authored-by: vee &lt;vendicated@riseup.net&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2679,40 +2806,6 @@ handling the ratelimits on their behalf.</div>
                                 <div class="details">
                                     <div>opened by JokerJosh1234 in <span class="repo">Vendicated/Vencord</span></div>
                                     <div class="comment">use react</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2505 File Viewer Plugin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by JokerJosh1234 in <span class="repo">Vendicated/Vencord</span></div>
-                                    <div class="comment">please don't put yourself in the top of the list</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2505 File Viewer Plugin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by JokerJosh1234 in <span class="repo">Vendicated/Vencord</span></div>
-                                    <div class="comment">my understanding of this is that it's meant to add a button to the message, so please use the chat buttons API to do this</div>
                                 </div>
                             </section>
                         </div>
@@ -3000,7 +3093,7 @@ handling the ratelimits on their behalf.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="67.70400000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="67.797 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3023,9 +3116,9 @@ handling the ratelimits on their behalf.</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.64k out of 193m repositories</span>
+                                    <span class="gh">ranked 5.64k out of 196m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7184 stars</div>
+                                <div class="text">Maintaining a repository with 7187 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3197,7 +3290,7 @@ handling the ratelimits on their behalf.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 249k out of 193m repositories</span>
+                                    <span class="gh">ranked 249k out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 51 times</div>
                             </div>
@@ -3518,7 +3611,7 @@ handling the ratelimits on their behalf.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2024, 17:06:29 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2024, 18:06:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
