@@ -2382,7 +2382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paulmcauley/klassy</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Klassy is a highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.</div>
@@ -3115,7 +3115,7 @@ it's `undefined` 🤦</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.52k out of 201m repositories</span>
+                                    <span class="gh">ranked 5.52k out of 170m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7321 stars</div>
                             </div>
@@ -3289,7 +3289,7 @@ it's `undefined` 🤦</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 245k out of 201m repositories</span>
+                                    <span class="gh">ranked 245k out of 170m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 52 times</div>
                             </div>
@@ -3610,7 +3610,7 @@ it's `undefined` 🤦</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2024, 12:06:36 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2024, 13:08:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
