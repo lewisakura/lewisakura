@@ -3045,7 +3045,7 @@ how should it work?
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 58k out of 121m users</span>
+                                    <span class="gh">ranked 58k out of 138m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -3151,7 +3151,7 @@ how should it work?
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.46k out of 205m repositories</span>
+                                    <span class="gh">ranked 5.46k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7377 stars</div>
                             </div>
@@ -3279,7 +3279,7 @@ how should it work?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63.2k out of 121m users</span>
+                                    <span class="gh">ranked 63.2k out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 159 users</div>
                             </div>
@@ -3325,7 +3325,7 @@ how should it work?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 245k out of 205m repositories</span>
+                                    <span class="gh">ranked 245k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 52 times</div>
                             </div>
@@ -3646,7 +3646,7 @@ how should it work?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2024, 04:06:35 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jun 2024, 05:06:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
