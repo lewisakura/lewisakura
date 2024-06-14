@@ -2321,7 +2321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gorse-io/gorse</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gorse open source recommender system engine</div>
@@ -2844,7 +2844,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 58.1k out of 138m users</span>
+                                    <span class="gh">ranked 58.1k out of 135m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -2895,7 +2895,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.88799999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.919 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2918,9 +2918,9 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.42k out of 204m repositories</span>
+                                    <span class="gh">ranked 5.41k out of 188m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7448 stars</div>
+                                <div class="text">Maintaining a repository with 7449 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3011,7 +3011,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63.9k out of 138m users</span>
+                                    <span class="gh">ranked 63.9k out of 135m users</span>
                                 </div>
                                 <div class="text">Followed by 158 users</div>
                             </div>
@@ -3332,7 +3332,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2024, 05:06:47 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jun 2024, 06:06:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
