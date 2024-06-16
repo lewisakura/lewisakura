@@ -2906,7 +2906,7 @@ also, in future, please just upload the file straight to github or to a not-susp
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 58.2k out of 138m users</span>
+                                    <span class="gh">ranked 58.2k out of 137m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -3012,7 +3012,7 @@ also, in future, please just upload the file straight to github or to a not-susp
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.40k out of 208m repositories</span>
+                                    <span class="gh">ranked 5.40k out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7473 stars</div>
                             </div>
@@ -3140,7 +3140,7 @@ also, in future, please just upload the file straight to github or to a not-susp
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63.5k out of 138m users</span>
+                                    <span class="gh">ranked 63.5k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 159 users</div>
                             </div>
@@ -3186,7 +3186,7 @@ also, in future, please just upload the file straight to github or to a not-susp
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 241k out of 208m repositories</span>
+                                    <span class="gh">ranked 241k out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 53 times</div>
                             </div>
@@ -3507,7 +3507,7 @@ also, in future, please just upload the file straight to github or to a not-susp
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2024, 21:06:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jun 2024, 22:06:01 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
