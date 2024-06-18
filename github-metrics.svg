@@ -2895,7 +2895,7 @@ also, in future, please just upload the file straight to github or to a not-susp
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.38k out of 201m repositories</span>
+                                    <span class="gh">ranked 5.38k out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7498 stars</div>
                             </div>
@@ -3309,7 +3309,7 @@ also, in future, please just upload the file straight to github or to a not-susp
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2024, 17:06:18 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jun 2024, 18:06:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
