@@ -285,7 +285,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 40.4 characters per line of code written</li>
+                        <li>Has approximately 40.3 characters per line of code written</li>
                         <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -2941,7 +2941,7 @@ Co-authored-by: vee &lt;vendicated@riseup.net&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 58.6k out of 134m users</span>
+                                    <span class="gh">ranked 58.6k out of 138m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -3015,7 +3015,7 @@ Co-authored-by: vee &lt;vendicated@riseup.net&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.17k out of 207m repositories</span>
+                                    <span class="gh">ranked 5.17k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7753 stars</div>
                             </div>
@@ -3108,7 +3108,7 @@ Co-authored-by: vee &lt;vendicated@riseup.net&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 62.3k out of 134m users</span>
+                                    <span class="gh">ranked 62.3k out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 163 users</div>
                             </div>
@@ -3429,7 +3429,7 @@ Co-authored-by: vee &lt;vendicated@riseup.net&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2024, 06:06:30 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2024, 07:08:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
