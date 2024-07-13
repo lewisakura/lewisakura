@@ -2394,7 +2394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>littensy/charm</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍀 Atomic state management for Roblox</div>
@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>littensy/reflex</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">♻️ An all-in-one state container for Roblox</div>
@@ -3006,7 +3006,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.09k out of 212m repositories</span>
+                                    <span class="gh">ranked 5.09k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7856 stars</div>
                             </div>
@@ -3180,7 +3180,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 238k out of 212m repositories</span>
+                                    <span class="gh">ranked 238k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 54 times</div>
                             </div>
@@ -3501,7 +3501,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2024, 07:06:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jul 2024, 08:06:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
