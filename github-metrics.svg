@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2821" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2828" class="">
     <defs>
         <style/>
     </defs>
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            796 issue comments
+                            797 issue comments
                         </div>
                     </section>
                     <section>
@@ -2543,6 +2543,35 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2735 Fix all hotlinks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by TheCrazyInsanity in <span class="repo">Vendicated/Vencord</span></div>
+                                    <div class="comment">
+                                        Okay, since I can already foresee this going on for ages, I'm just going to lock it with the final statements:
+
+This PR solves nothing, really, and would be immediately superseded by #2707 anyway.
+The image assets that Vencord fetches are, once again, immutable and cannot be replaced, simply removed.
+As Vee already said, cdnjs is used by Discord themselves so if a supply chain attacked occurred there would be much bigger issues. Same with unpkg.
+Loads of your hotlinks now link to
+                                        <code>main</code>
+                                        , which is WORSE. I'm aware that you're trying to get us to merge files first but this now causes a security issue for this one commit. No bueno.
+You're changing immutable Discord CDN links (like the emoji links) because you believe the content can be replaced when it can't. There's no advantage to this.
+You have for some reason flagged up that InvisibleChat violates the plugin rules. It doesn't, otherwise it wouldn't have been merged (unless you mean the "untrusted APIs" rule, in which case this doesn't apply because it is trusted by us).
+Anyhow, thank you for the contribution, but a lot of it is nonsense security fearmongering and won't be a problem when the ASAR PR is merged.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -2609,30 +2638,6 @@
                                     <div class="commit">
                                         <div class="sha">#4d6b71e</div>
                                         <div class="message">chore: smartcollider</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Kamuro-District/KD-Main</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9d3f49b</div>
-                                        <div class="message">feat: smartbone</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fbf05a</div>
-                                        <div class="message">feat: custom respawn logic</div>
                                     </div>
                                 </div>
                             </section>
@@ -2904,7 +2909,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.90700000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2927,9 +2932,9 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5k out of 206m repositories</span>
+                                    <span class="gh">ranked 5k out of 210m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7997 stars</div>
+                                <div class="text">Maintaining a repository with 8000 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3341,7 +3346,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2024, 12:05:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jul 2024, 13:08:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
