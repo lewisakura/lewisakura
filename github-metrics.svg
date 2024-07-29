@@ -3027,7 +3027,7 @@ Anyhow, thank you for the contribution, but a lot of it is nonsense security fea
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.99k out of 213m repositories</span>
+                                    <span class="gh">ranked 4.99k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8003 stars</div>
                             </div>
@@ -3201,7 +3201,7 @@ Anyhow, thank you for the contribution, but a lot of it is nonsense security fea
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 230k out of 213m repositories</span>
+                                    <span class="gh">ranked 230k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 56 times</div>
                             </div>
@@ -3522,7 +3522,7 @@ Anyhow, thank you for the contribution, but a lot of it is nonsense security fea
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2024, 01:23:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2024, 02:33:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
