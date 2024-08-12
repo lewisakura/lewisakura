@@ -2837,7 +2837,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 59.3k out of 142m users</span>
+                                    <span class="gh">ranked 59.4k out of 142m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -2911,7 +2911,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.91k out of 213m repositories</span>
+                                    <span class="gh">ranked 4.91k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8140 stars</div>
                             </div>
@@ -3325,7 +3325,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2024, 02:33:25 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2024, 03:21:55 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
