@@ -2376,7 +2376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intergrav/devins-badges</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source library of beautifully designed badges for various services</div>
@@ -3015,7 +3015,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.86k out of 214m repositories</span>
+                                    <span class="gh">ranked 4.86k out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8230 stars</div>
                             </div>
@@ -3189,7 +3189,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 223k out of 214m repositories</span>
+                                    <span class="gh">ranked 223k out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 58 times</div>
                             </div>
@@ -3510,7 +3510,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2024, 01:22:56 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Aug 2024, 02:33:04 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
