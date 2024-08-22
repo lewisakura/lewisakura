@@ -2314,7 +2314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intergrav/devins-badges</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source library of beautifully designed badges for various services</div>
@@ -2847,7 +2847,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 59.5k out of 142m users</span>
+                                    <span class="gh">ranked 59.6k out of 142m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -2921,7 +2921,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.86k out of 204m repositories</span>
+                                    <span class="gh">ranked 4.86k out of 188m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8231 stars</div>
                             </div>
@@ -3335,7 +3335,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2024, 09:07:46 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Aug 2024, 10:06:19 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
