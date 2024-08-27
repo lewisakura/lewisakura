@@ -2298,7 +2298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intergrav/devins-badges</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source library of beautifully designed badges for various services</div>
@@ -2827,7 +2827,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 59.6k out of 143m users</span>
+                                    <span class="gh">ranked 59.6k out of 140m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -2901,7 +2901,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.76k out of 206m repositories</span>
+                                    <span class="gh">ranked 4.76k out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8384 stars</div>
                             </div>
@@ -2994,7 +2994,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 61.5k out of 143m users</span>
+                                    <span class="gh">ranked 61.5k out of 140m users</span>
                                 </div>
                                 <div class="text">Followed by 169 users</div>
                             </div>
@@ -3315,7 +3315,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2024, 17:06:43 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2024, 18:06:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
