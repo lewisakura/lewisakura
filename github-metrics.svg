@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2991" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3041" class="">
     <defs>
         <style/>
     </defs>
@@ -339,7 +339,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.5 characters per line of code written</li>
+                        <li>Has approximately 29.4 characters per line of code written</li>
                         <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -2582,6 +2582,38 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">Kamuro-District/KD-Main</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1e4a0f8</div>
+                                        <div class="message">style: rerun stylua</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a298cd</div>
+                                        <div class="message">Merge branch 'main' of gh:Kamuro-District/KD-Main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00aaa22</div>
+                                        <div class="message">Merge branch 'main' of gh:Kamuro-District/KD-Main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19defe2</div>
+                                        <div class="message">chore: remove unnecessary directives</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Kamuro-District/KD-Main</span>
                                     </div>
@@ -2651,26 +2683,6 @@
                                     <div class="commit">
                                         <div class="sha">#8028394</div>
                                         <div class="message">feat: fix lights being silly</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Kamuro-District/KD-Main</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#94ab8dd</div>
-                                        <div class="message">feat: lighting updates!</div>
                                     </div>
                                 </div>
                             </section>
@@ -2948,7 +2960,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.08487337440112164 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2984,7 +2996,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.245 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.307 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3007,9 +3019,9 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.75k out of 201m repositories</span>
+                                    <span class="gh">ranked 4.75k out of 210m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8395 stars</div>
+                                <div class="text">Maintaining a repository with 8397 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3181,7 +3193,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 219k out of 201m repositories</span>
+                                    <span class="gh">ranked 219k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 59 times</div>
                             </div>
@@ -3502,7 +3514,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2024, 16:06:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Aug 2024, 17:07:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
