@@ -2387,7 +2387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intergrav/devins-badges</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source library of beautifully designed badges for various services</div>
@@ -2997,7 +2997,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="109.368 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="109.399 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3020,9 +3020,9 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.68k out of 213m repositories</span>
+                                    <span class="gh">ranked 4.68k out of 217m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8528 stars</div>
+                                <div class="text">Maintaining a repository with 8529 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3194,7 +3194,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 212k out of 213m repositories</span>
+                                    <span class="gh">ranked 212k out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 61 times</div>
                             </div>
@@ -3515,7 +3515,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2024, 17:06:55 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Sept 2024, 18:06:48 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
