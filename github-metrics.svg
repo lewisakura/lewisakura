@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2299,7 +2299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intergrav/devins-badges</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source library of beautifully designed badges for various services</div>
@@ -2912,7 +2912,7 @@ To be honest, RPC might be a fruitless endeavour at this point and we might just
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.64k out of 213m repositories</span>
+                                    <span class="gh">ranked 4.64k out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8618 stars</div>
                             </div>
@@ -3326,7 +3326,7 @@ To be honest, RPC might be a fruitless endeavour at this point and we might just
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2024, 17:07:10 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2024, 18:06:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
