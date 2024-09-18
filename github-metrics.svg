@@ -3006,7 +3006,7 @@ To be honest, RPC might be a fruitless endeavour at this point and we might just
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.64k out of 208m repositories</span>
+                                    <span class="gh">ranked 4.64k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8619 stars</div>
                             </div>
@@ -3180,7 +3180,7 @@ To be honest, RPC might be a fruitless endeavour at this point and we might just
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 206k out of 208m repositories</span>
+                                    <span class="gh">ranked 206k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 63 times</div>
                             </div>
@@ -3501,7 +3501,7 @@ To be honest, RPC might be a fruitless endeavour at this point and we might just
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2024, 07:08:36 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2024, 08:06:24 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
