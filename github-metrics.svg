@@ -2923,7 +2923,7 @@ To be honest, RPC might be a fruitless endeavour at this point and we might just
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.64k out of 214m repositories</span>
+                                    <span class="gh">ranked 4.64k out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8622 stars</div>
                             </div>
@@ -3337,7 +3337,7 @@ To be honest, RPC might be a fruitless endeavour at this point and we might just
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2024, 11:06:36 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2024, 12:06:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
