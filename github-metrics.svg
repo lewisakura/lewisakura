@@ -2921,7 +2921,7 @@ that's a change that can be made at a later date though, and will probably be ro
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.63k out of 207m repositories</span>
+                                    <span class="gh">ranked 4.63k out of 192m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8673 stars</div>
                             </div>
@@ -3335,7 +3335,7 @@ that's a change that can be made at a later date though, and will probably be ro
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2024, 10:07:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2024, 11:06:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
