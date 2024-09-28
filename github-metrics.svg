@@ -2854,7 +2854,7 @@ copy and paste the output when you recreate the error
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 60.3k out of 145m users</span>
+                                    <span class="gh">ranked 60.3k out of 138m users</span>
                                 </div>
                                 <div class="text">Published 188 public repositories</div>
                             </div>
@@ -2928,7 +2928,7 @@ copy and paste the output when you recreate the error
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.61k out of 220m repositories</span>
+                                    <span class="gh">ranked 4.61k out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8695 stars</div>
                             </div>
@@ -3021,7 +3021,7 @@ copy and paste the output when you recreate the error
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63k out of 145m users</span>
+                                    <span class="gh">ranked 63k out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 168 users</div>
                             </div>
@@ -3342,7 +3342,7 @@ copy and paste the output when you recreate the error
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2024, 12:06:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2024, 13:09:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
