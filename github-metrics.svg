@@ -2920,7 +2920,7 @@ copy and paste the output when you recreate the error
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.62k out of 201m repositories</span>
+                                    <span class="gh">ranked 4.62k out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8693 stars</div>
                             </div>
@@ -3334,7 +3334,7 @@ copy and paste the output when you recreate the error
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2024, 14:11:47 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2024, 15:06:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
