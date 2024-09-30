@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2828" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2827" class="">
     <defs>
         <style/>
     </defs>
@@ -2544,6 +2544,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#2698 [Bug] Discord is spamming Sentry error popups, making the app practically unusable</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ColinTimBarndt in <span class="repo">Vendicated/Vencord</span></div>
+                                    <div class="comment">Thank you for letting us know. We'll try and work on a fix for this, but since it's not an issue that can be easily reproduced consistently (for instance, I have never had it happen at all) it may take some time. If there are specific reproduction steps that anyone has to consistently reproduce the issue from a clean install, please send them here.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#876 [Bug] strange call behaviour when using VPN </span>
                                     </div>
                                 </div>
@@ -2606,31 +2623,6 @@ You don't need to give it sudo to run the installer on a user-installed Flatpak,
                                         unfortunately, yes. you can clear the console by running
                                         <code>cls</code>
                                         after each attempt
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#494 exiting from vesktop displays an error</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by hhoneeyy in <span class="repo">Vencord/Vesktop</span></div>
-                                    <div class="comment">
-                                        since you're on windows:
-
-open
-                                        <code>cmd.exe</code>
-                                        drag and drop the vesktop shortcut into the window
-run that
-copy and paste the output when you recreate the error
                                     </div>
                                 </div>
                             </section>
@@ -2920,7 +2912,7 @@ copy and paste the output when you recreate the error
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.62k out of 217m repositories</span>
+                                    <span class="gh">ranked 4.62k out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8695 stars</div>
                             </div>
@@ -3334,7 +3326,7 @@ copy and paste the output when you recreate the error
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2024, 21:06:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2024, 22:06:20 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
