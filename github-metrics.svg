@@ -3014,7 +3014,7 @@ copy and paste the output when you recreate the error
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.62k out of 216m repositories</span>
+                                    <span class="gh">ranked 4.62k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8694 stars</div>
                             </div>
@@ -3188,7 +3188,7 @@ copy and paste the output when you recreate the error
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 191k out of 216m repositories</span>
+                                    <span class="gh">ranked 191k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 68 times</div>
                             </div>
@@ -3509,7 +3509,7 @@ copy and paste the output when you recreate the error
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2024, 10:07:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2024, 11:07:25 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
