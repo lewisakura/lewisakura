@@ -2893,7 +2893,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 60k out of 146m users</span>
+                                    <span class="gh">ranked 60k out of 141m users</span>
                                 </div>
                                 <div class="text">Published 189 public repositories</div>
                             </div>
@@ -2999,7 +2999,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.59k out of 207m repositories</span>
+                                    <span class="gh">ranked 4.59k out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8736 stars</div>
                             </div>
@@ -3127,7 +3127,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 62.8k out of 146m users</span>
+                                    <span class="gh">ranked 62.8k out of 141m users</span>
                                 </div>
                                 <div class="text">Followed by 169 users</div>
                             </div>
@@ -3173,7 +3173,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 192k out of 207m repositories</span>
+                                    <span class="gh">ranked 192k out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 68 times</div>
                             </div>
@@ -3494,7 +3494,7 @@ it's been reported a few times (upstream) that some applications need all of the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2024, 10:06:55 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2024, 11:06:13 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
