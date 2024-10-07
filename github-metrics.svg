@@ -2919,7 +2919,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.58k out of 206m repositories</span>
+                                    <span class="gh">ranked 4.58k out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8759 stars</div>
                             </div>
@@ -3333,7 +3333,7 @@ it's been reported a few times (upstream) that some applications need all of the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2024, 18:06:04 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 19:07:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
