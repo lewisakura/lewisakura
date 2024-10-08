@@ -2964,7 +2964,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.746 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.77699999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2987,9 +2987,9 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.57k out of 216m repositories</span>
+                                    <span class="gh">ranked 4.57k out of 209m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8766 stars</div>
+                                <div class="text">Maintaining a repository with 8767 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3161,7 +3161,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 189k out of 216m repositories</span>
+                                    <span class="gh">ranked 189k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 69 times</div>
                             </div>
@@ -3482,7 +3482,7 @@ it's been reported a few times (upstream) that some applications need all of the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2024, 13:09:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2024, 14:10:27 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
