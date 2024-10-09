@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2705" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2688" class="">
     <defs>
         <style/>
     </defs>
@@ -2513,6 +2513,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#900 [Feature Request] So, discord now Banned in Russia and Turkey</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by K1LL3RPUNCH in <span class="repo">Vencord/Vesktop</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2583,32 +2600,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by Wrtox in <span class="repo">Vencord/Vesktop</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">flathub/dev.vencord.Vesktop</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b55f7ec</div>
-                                        <div class="message">feat: include all icon sizes (#35)
-
-* feat: include all icon sizes
-
-it's been reported a few times (upstream) that some applications need all of the bitmap icons, so we'll just include them all with the flatpak
-
-* fix: remove 1024px size</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2818,7 +2809,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 60k out of 146m users</span>
+                                    <span class="gh">ranked 60k out of 145m users</span>
                                 </div>
                                 <div class="text">Published 189 public repositories</div>
                             </div>
@@ -2869,7 +2860,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="117.459 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="117.49 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2892,9 +2883,9 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.56k out of 214m repositories</span>
+                                    <span class="gh">ranked 4.56k out of 213m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8789 stars</div>
+                                <div class="text">Maintaining a repository with 8790 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2985,7 +2976,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63k out of 146m users</span>
+                                    <span class="gh">ranked 63k out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 169 users</div>
                             </div>
@@ -3306,7 +3297,7 @@ it's been reported a few times (upstream) that some applications need all of the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2024, 21:06:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 22:06:15 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
