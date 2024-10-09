@@ -2892,7 +2892,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.57k out of 208m repositories</span>
+                                    <span class="gh">ranked 4.57k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8781 stars</div>
                             </div>
@@ -2985,7 +2985,7 @@ it's been reported a few times (upstream) that some applications need all of the
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 62.9k out of 146m users</span>
+                                    <span class="gh">ranked 63k out of 146m users</span>
                                 </div>
                                 <div class="text">Followed by 169 users</div>
                             </div>
@@ -3306,7 +3306,7 @@ it's been reported a few times (upstream) that some applications need all of the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2024, 09:08:27 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 10:07:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
