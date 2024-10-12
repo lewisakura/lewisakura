@@ -2848,7 +2848,7 @@ If this is related to how the Flatpak is packaged, you're going to need to provi
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 60.1k out of 146m users</span>
+                                    <span class="gh">ranked 60.1k out of 142m users</span>
                                 </div>
                                 <div class="text">Published 189 public repositories</div>
                             </div>
@@ -2922,7 +2922,7 @@ If this is related to how the Flatpak is packaged, you're going to need to provi
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.56k out of 217m repositories</span>
+                                    <span class="gh">ranked 4.56k out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8804 stars</div>
                             </div>
@@ -3015,7 +3015,7 @@ If this is related to how the Flatpak is packaged, you're going to need to provi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63.1k out of 146m users</span>
+                                    <span class="gh">ranked 63.1k out of 142m users</span>
                                 </div>
                                 <div class="text">Followed by 169 users</div>
                             </div>
@@ -3336,7 +3336,7 @@ If this is related to how the Flatpak is packaged, you're going to need to provi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2024, 09:07:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2024, 10:07:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
