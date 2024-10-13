@@ -3021,7 +3021,7 @@ If this is related to how the Flatpak is packaged, you're going to need to provi
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.56k out of 207m repositories</span>
+                                    <span class="gh">ranked 4.56k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8811 stars</div>
                             </div>
@@ -3195,7 +3195,7 @@ If this is related to how the Flatpak is packaged, you're going to need to provi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 187k out of 207m repositories</span>
+                                    <span class="gh">ranked 187k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 70 times</div>
                             </div>
@@ -3516,7 +3516,7 @@ If this is related to how the Flatpak is packaged, you're going to need to provi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Oct 2024, 17:06:22 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Oct 2024, 18:06:11 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
