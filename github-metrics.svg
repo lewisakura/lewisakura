@@ -2830,7 +2830,7 @@ for the exclusion stuff, i think it would be best to just render a plugin card b
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 60.5k out of 145m users</span>
+                                    <span class="gh">ranked 60.5k out of 146m users</span>
                                 </div>
                                 <div class="text">Published 189 public repositories</div>
                             </div>
@@ -2904,7 +2904,7 @@ for the exclusion stuff, i think it would be best to just render a plugin card b
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.49k out of 213m repositories</span>
+                                    <span class="gh">ranked 4.49k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8976 stars</div>
                             </div>
@@ -2997,7 +2997,7 @@ for the exclusion stuff, i think it would be best to just render a plugin card b
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63.4k out of 145m users</span>
+                                    <span class="gh">ranked 63.4k out of 146m users</span>
                                 </div>
                                 <div class="text">Followed by 170 users</div>
                             </div>
@@ -3318,7 +3318,7 @@ for the exclusion stuff, i think it would be best to just render a plugin card b
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2024, 19:06:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2024, 20:07:22 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
