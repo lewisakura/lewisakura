@@ -2904,7 +2904,7 @@ for the exclusion stuff, i think it would be best to just render a plugin card b
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.49k out of 203m repositories</span>
+                                    <span class="gh">ranked 4.49k out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8974 stars</div>
                             </div>
@@ -3318,7 +3318,7 @@ for the exclusion stuff, i think it would be best to just render a plugin card b
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2024, 08:08:48 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2024, 09:06:51 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
