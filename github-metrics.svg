@@ -3030,7 +3030,7 @@ but hey ho we gotta test things</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.46k out of 221m repositories</span>
+                                    <span class="gh">ranked 4.46k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9021 stars</div>
                             </div>
@@ -3204,7 +3204,7 @@ but hey ho we gotta test things</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 177k out of 221m repositories</span>
+                                    <span class="gh">ranked 177k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 74 times</div>
                             </div>
@@ -3525,7 +3525,7 @@ but hey ho we gotta test things</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2024, 03:14:24 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2024, 04:07:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
