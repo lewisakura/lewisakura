@@ -2806,7 +2806,7 @@ Thanks for the help everyone!</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 61.7k out of 152m users</span>
+                                    <span class="gh">ranked 61.7k out of 149m users</span>
                                 </div>
                                 <div class="text">Published 189 public repositories</div>
                             </div>
@@ -2880,7 +2880,7 @@ Thanks for the help everyone!</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.29k out of 221m repositories</span>
+                                    <span class="gh">ranked 4.29k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9495 stars</div>
                             </div>
@@ -2973,7 +2973,7 @@ Thanks for the help everyone!</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63.6k out of 152m users</span>
+                                    <span class="gh">ranked 63.6k out of 149m users</span>
                                 </div>
                                 <div class="text">Followed by 175 users</div>
                             </div>
@@ -3294,7 +3294,7 @@ Thanks for the help everyone!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Dec 2024, 10:06:54 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Dec 2024, 11:06:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
