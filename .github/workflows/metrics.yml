@@ -19,7 +19,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
-
+          # workaround for insufficient token scopes issue
+          repositories: 100
+          
           # Achievements
           plugin_achievements: yes
           plugin_achievements_display: detailed
