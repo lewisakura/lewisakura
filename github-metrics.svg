@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2838,7 +2838,7 @@ The permissions were added because people could not drag-and-drop from their pic
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 61.5k out of 156m users</span>
+                                    <span class="gh">ranked 61.6k out of 156m users</span>
                                 </div>
                                 <div class="text">Published 191 public repositories</div>
                             </div>
@@ -2912,7 +2912,7 @@ The permissions were added because people could not drag-and-drop from their pic
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.15k out of 228m repositories</span>
+                                    <span class="gh">ranked 4.15k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9903 stars</div>
                             </div>
@@ -3326,7 +3326,7 @@ The permissions were added because people could not drag-and-drop from their pic
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Feb 2025, 12:10:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2025, 13:10:36 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
