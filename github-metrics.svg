@@ -2921,7 +2921,7 @@ The permissions were added because people could not drag-and-drop from their pic
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.15k out of 225m repositories</span>
+                                    <span class="gh">ranked 4.15k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9920 stars</div>
                             </div>
@@ -3335,7 +3335,7 @@ The permissions were added because people could not drag-and-drop from their pic
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2025, 08:08:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2025, 09:07:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
