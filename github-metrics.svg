@@ -2880,7 +2880,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 4.10k out of 229m repositories</span>
+                                    <span class="gh">ranked 4.10k out of 235m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 10089 stars</div>
                             </div>
@@ -3330,7 +3330,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2025, 07:07:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2025, 08:08:58 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
