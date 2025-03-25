@@ -2639,27 +2639,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RoslynScriptTest</span>
-                                <div class="bar" style="width: 23.104%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 23.512%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">29%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">GunPhysicsPlatformer</span>
-                                <div class="bar" style="width: 22.136%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 22.576%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">28%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">kamuro-district</span>
-                                <div class="bar" style="width: 16.887999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">21%</span>
+                                <span class="name">vfxbot</span>
+                                <div class="bar" style="width: 16.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">vfxbot</span>
-                                <div class="bar" style="width: 15.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">kamuro-district</span>
+                                <div class="bar" style="width: 15.712000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">20%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">blr-matchmaker</span>
-                                <div class="bar" style="width: 1.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -2669,27 +2669,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 44.792%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">56%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Lua</span>
-                                <div class="bar" style="width: 16.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">21%</span>
+                                <div class="bar" style="width: 45.64%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">57%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 15.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 16.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Lua</span>
+                                <div class="bar" style="width: 15.656%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">20%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Terraform</span>
-                                <div class="bar" style="width: 1.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 0.36000000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2850,7 +2850,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 4.07k out of 235m repositories</span>
+                                    <span class="gh">ranked 4.07k out of 236m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 10245 stars</div>
                             </div>
@@ -3300,7 +3300,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2025, 00:28:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2025, 01:34:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
