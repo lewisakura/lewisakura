@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2645" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2661" class="">
     <defs>
         <style/>
     </defs>
@@ -2515,6 +2515,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#3319 Delete random click</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by hokagegaara in <span class="repo">Vendicated/Vencord</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2568,19 +2585,6 @@
                                     </svg>
                                     <div class="content">
                                         Added SashaDagmar as collaborator in
-                                        <span class="repo">lewisakura/g3-unity-project</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Added Frostieeee as collaborator in
                                         <span class="repo">lewisakura/g3-unity-project</span>
                                     </div>
                                 </div>
@@ -2832,7 +2836,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.903666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.9346666666666668 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2855,9 +2859,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 4.05k out of 231m repositories</span>
+                                    <span class="gh">ranked 4.05k out of 234m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 10281 stars</div>
+                                <div class="text">Maintaining a repository with 10284 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3305,7 +3309,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2025, 14:07:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2025, 15:07:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
