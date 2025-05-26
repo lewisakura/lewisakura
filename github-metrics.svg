@@ -2305,7 +2305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>henrygd/beszel</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight server monitoring hub with historical data, docker stats, and alerts.</div>
@@ -2708,7 +2708,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2025, 04:28:01 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 May 2025, 05:11:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
