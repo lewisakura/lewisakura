@@ -2305,7 +2305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>red-blox/zap</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightning fast networking solution for roblox.</div>
@@ -2358,7 +2358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ukendio/jecs</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, portable Entity Component System for Luau</div>
@@ -2746,7 +2746,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2025, 02:36:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jun 2025, 03:41:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
